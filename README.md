@@ -212,7 +212,7 @@ If you use this pipeline in your research, please cite:
 ```bibtex
 @article{exosite_analysis_2024,
   title={Structural Statistics of Exosites in the Protein Data Bank},
-  author={[Author Names]},
+  author={[Folorunsho Bright Omage]},
   journal={[Journal Name]},
   year={2024},
   doi={[DOI]}
@@ -232,10 +232,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or support, please open an issue on GitHub or contact [your-email@domain.com].
+For questions or support, please open an issue on GitHub or contact [omagefolorunsho@gmail.com].
 
 ---
 
-**Last Updated**: 2024-07-08  
+**Last Updated**: 2025-07-08  
 **Version**: 1.0.0  
 **Status**: Production Ready
