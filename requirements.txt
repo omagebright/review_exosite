@@ -1,0 +1,7 @@
+requests
+pyyaml
+freesasa
+biopython
+pandas
+numpy
+tqdm

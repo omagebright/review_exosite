@@ -1,0 +1,2384 @@
+pdb_id,family,sasa,resolution
+3dhk,Serine Proteases,12578.33,1.73
+1rwn,Cysteine Proteases,13711.69,2.0
+3fmv,Phosphatases,81522.38,3.31
+4um7,Phosphatases,26238.03,1.64
+2hu6,Metalloproteases,8285.17,1.32
+6ing,Glycosyltransferases,19118.35,1.7
+4a97,Ion Channels,128556.45,3.34
+7neu,Serine Proteases,15953.70,2.8
+6rth,Glycosyltransferases,47468.09,3.4
+1pa1,Phosphatases,13880.14,1.6
+3qx5,Serine Proteases,13221.20,1.35
+6cm1,Metalloproteases,45952.78,
+7seo,Cysteine Proteases,18175.07,3.25
+1xkb,Serine Proteases,31219.10,2.4
+2cji,Serine Proteases,13092.59,2.1
+8t1w,GPCRs,18361.99,3.49
+1xri,Phosphatases,15130.26,3.3
+4pnk,GPCRs,47782.64,2.56
+1bth,Serine Proteases,29868.72,2.3
+1avg,Serine Proteases,19909.22,2.6
+5ryb,Phosphatases,20494.31,1.55
+6tfi,Serine Proteases,29368.05,1.85
+5rxd,Phosphatases,20373.83,1.33
+3elm,Metalloproteases,16459.55,1.9
+2ixo,Phosphatases,26818.83,2.6
+1ujc,Phosphatases,7133.73,1.9
+3kya,Phosphatases,21092.89,1.77
+1sfq,Serine Proteases,24083.87,1.91
+6o02,Tyr Kinases,19339.16,2.95
+1i9y,Phosphatases,15789.72,2.0
+1iht,Serine Proteases,12985.14,2.1
+2veu,Phosphatases,13749.37,2.4
+4i9f,Phosphatases,30285.28,2.21
+4ayl,Glycosyltransferases,10901.87,1.92
+1tbq,Serine Proteases,36639.30,3.1
+7klx,Phosphatases,12281.31,1.84
+7ocr,Phosphatases,56788.38,2.6
+4xkx,Aspartic Proteases,15656.52,1.8
+8e6q,Ion Channels,254913.65,3.4
+5wve,Cysteine Proteases,435358.68,4.4
+2cf8,Serine Proteases,13199.96,1.3
+4que,Cysteine Proteases,18347.58,1.84
+3dpe,Metalloproteases,8314.42,1.6
+1bvh,Phosphatases,9546.06,
+9hua,Glycosyltransferases,50707.71,2.6
+2pgb,Serine Proteases,12944.08,1.54
+3qcl,Phosphatases,14107.95,2.4
+5svm,Ion Channels,36598.26,3.09
+5k23,Phosphatases,15312.53,2.96
+6i08,Ion Channels,63352.21,3.0
+3p6z,Serine Proteases,26602.15,1.7
+8ddr,Ion Channels,190807.90,3.2
+8ddq,Ion Channels,184504.18,2.7
+4fdt,Phosphatases,34021.16,1.93
+3teb,Phosphatases,23294.52,2.99
+3si4,Serine Proteases,13170.60,1.27
+6eji,Glycosyltransferases,32963.92,2.3
+4qu8,Cysteine Proteases,12177.03,1.72
+8qz3,Ion Channels,41968.90,2.4
+1ny2,Serine Proteases,13544.77,2.3
+1m24,Ion Channels,2337.36,0.9
+3r5j,Cysteine Proteases,19784.68,1.77
+7yp3,Glycosyltransferases,108950.50,2.1
+3u69,Serine Proteases,12585.84,1.55
+3kc2,Phosphatases,25923.06,1.55
+5rxe,Phosphatases,20193.44,1.25
+4dd8,Metalloproteases,36511.77,2.1
+6bmu,Phosphatases,42780.08,2.12
+1ql8,Serine Proteases,9035.48,3.0
+7z4v,Ser/Thr Kinases,14382.94,1.64
+1m3g,Phosphatases,8595.00,
+5rx1,Phosphatases,20458.07,1.31
+2b1w,Cysteine Proteases,5735.10,
+1u46,Tyr Kinases,24524.70,2.0
+4fz0,Ion Channels,54782.97,2.8
+1snx,Tyr Kinases,24975.98,3.2
+7ocu,Phosphatases,56759.64,2.7
+6fvr,Ion Channels,63586.18,4.2
+5ibc,Cysteine Proteases,11820.25,1.66
+6vtk,Ion Channels,56109.67,2.82
+1alk,Phosphatases,28044.47,2.0
+8hjn,Glycosyltransferases,38671.46,3.2
+4n5u,Phosphatases,6041.75,1.46
+1r7t,Glycosyltransferases,13719.98,2.09
+3rqu,Ion Channels,128085.37,3.09
+2bxt,Serine Proteases,13221.04,1.83
+4mk0,GPCRs,47630.45,2.4
+5n5k,Metalloproteases,7916.23,1.8
+2hbq,Cysteine Proteases,13346.06,1.8
+6aua,Tyr Kinases,12789.66,1.66
+3kqc,Serine Proteases,13297.24,2.2
+4qih,Phosphatases,17145.14,2.3
+2zhu,Aspartic Proteases,15723.51,2.4
+2c8z,Serine Proteases,12965.25,2.14
+4jpc,Aspartic Proteases,18049.02,1.8
+2w5x,Phosphatases,23817.68,1.99
+4qjb,Phosphatases,24365.57,2.05
+5ry3,Phosphatases,20301.74,1.5
+6yhj,Serine Proteases,13436.68,1.44
+4kc1,Glycosyltransferases,14237.69,1.5
+4ivs,Aspartic Proteases,16313.36,2.64
+3ba0,Metalloproteases,19014.23,3.0
+1sc3,Cysteine Proteases,13548.16,1.8
+5jo1,Phosphatases,21904.96,2.3
+8dds,Ion Channels,188274.50,3.5
+6tkj,Serine Proteases,13107.98,2.81
+5cx4,Phosphatases,34253.31,2.06
+3dyc,Phosphatases,27083.99,2.3
+1cwe,Tyr Kinases,11765.92,2.3
+2fes,Serine Proteases,13271.35,2.42
+1fgi,Tyr Kinases,27115.77,2.5
+5h31,Cysteine Proteases,39700.50,3.17
+4dco,Cysteine Proteases,18926.50,1.7
+3d4i,Phosphatases,43430.98,1.95
+3o5x,Phosphatases,12179.76,2.0
+2z4g,Phosphatases,20534.41,1.8
+1f0s,Serine Proteases,13812.32,2.1
+2jx0,GPCRs,8403.11,
+1nyf,Tyr Kinases,4191.34,
+8a1z,Phosphatases,17969.97,2.28
+3exm,Phosphatases,10456.43,1.65
+4az1,Phosphatases,24613.27,2.18
+4gw8,Ser/Thr Kinases,13292.87,2.0
+1dcu,Phosphatases,43218.27,2.2
+7key,Phosphatases,12373.34,1.77
+1ihs,Serine Proteases,12779.52,2.0
+1ype,Serine Proteases,12948.49,1.81
+3rf6,Phosphatases,27647.02,1.7
+4qq5,Tyr Kinases,13987.81,2.2
+6o03,Tyr Kinases,35967.95,3.3
+7t0y,Phosphatases,28098.74,1.8
+7ef7,Phosphatases,11721.41,1.5
+4qxd,Phosphatases,26391.74,2.55
+2hwl,Serine Proteases,24572.47,2.4
+1nrn,Serine Proteases,14422.06,3.1
+2h4w,Cysteine Proteases,13386.78,2.0
+1utz,Metalloproteases,15280.10,2.5
+3s3x,Ion Channels,56078.37,2.99
+4dhl,Phosphatases,59536.42,2.3
+5wky,Ion Channels,54355.13,4.0
+5nhu,Serine Proteases,35631.58,1.45
+3v96,Metalloproteases,15651.50,1.9
+4hfb,Ion Channels,63536.18,2.75
+3h0e,Cysteine Proteases,18845.93,2.0
+5e8e,Serine Proteases,31667.69,1.9
+5zon,Phosphatases,36179.73,1.94
+3ng8,Phosphatases,8611.42,1.35
+5pnt,Phosphatases,8292.82,2.2
+2gjt,Phosphatases,25748.33,2.15
+2phb,Serine Proteases,13393.36,2.3
+5iaj,Cysteine Proteases,11320.18,1.58
+7f8g,Phosphatases,24373.72,3.49
+2vex,Phosphatases,13808.71,2.2
+8gvx,Ion Channels,184251.68,3.91
+1opk,Tyr Kinases,21681.39,1.8
+5dqc,Aspartic Proteases,46272.97,2.47
+1m72,Cysteine Proteases,32589.01,2.3
+7or0,Ion Channels,111840.92,2.64
+3ibc,Cysteine Proteases,18288.76,2.75
+1xba,Tyr Kinases,12200.61,2.0
+8ddv,Ion Channels,188245.07,3.2
+4gyf,Phosphatases,11704.71,1.65
+2ziq,Serine Proteases,12809.22,1.65
+6x8h,Cysteine Proteases,11935.10,1.48
+6kip,Phosphatases,26162.24,1.91
+6tzz,Phosphatases,26844.34,3.0
+6bg4,Cysteine Proteases,17677.09,1.87
+1lhf,Serine Proteases,12373.59,2.4
+5okn,Phosphatases,140742.35,2.65
+6ejk,Glycosyltransferases,33010.08,3.3
+4hjo,Tyr Kinases,13552.84,2.75
+2d1j,Serine Proteases,12824.50,2.2
+6p9u,Serine Proteases,48870.84,3.3
+2fjn,Phosphatases,25406.62,2.2
+6w02,Phosphatases,15089.86,1.5
+6yyf,Tyr Kinases,17932.99,1.93
+4kk4,Phosphatases,7987.48,1.8
+2i6p,Phosphatases,7605.32,2.5
+1t71,Phosphatases,13163.37,2.1
+1bcu,Serine Proteases,13093.33,2.0
+3i80,Phosphatases,13489.81,2.25
+5hvg,Serine Proteases,39657.89,3.05
+2ivt,Tyr Kinases,14003.53,2.6
+2fo0,Tyr Kinases,22873.33,2.27
+6u9v,Ion Channels,79040.47,2.9
+4u3b,Metalloproteases,11636.22,1.34
+6ibd,Phosphatases,19631.13,1.48
+1l7m,Phosphatases,19333.11,1.48
+2hc2,Phosphatases,13393.84,1.4
+4wty,Phosphatases,28525.42,2.1
+5zzk,Glycosyltransferases,9850.06,2.64
+5uy7,Glycosyltransferases,12629.32,1.65
+6py9,Phosphatases,57399.63,2.2
+9ftj,Ion Channels,72354.37,4.0
+2zos,Phosphatases,22142.47,1.7
+5ry6,Phosphatases,20351.78,1.74
+7d8q,Phosphatases,9381.97,1.5
+6yyk,Tyr Kinases,18992.53,2.04
+1bbr,Serine Proteases,38817.16,2.3
+6gbw,Serine Proteases,12770.18,1.45
+7k67,Phosphatases,41085.23,1.6
+4z99,Phosphatases,9149.33,2.3
+3h64,Phosphatases,25552.36,1.9
+3cxw,Ser/Thr Kinases,13143.53,2.1
+7obe,Phosphatases,39898.29,3.0
+1qur,Serine Proteases,14295.05,2.0
+1thp,Serine Proteases,12394.31,2.1
+1fls,Metalloproteases,8966.33,
+8ym5,Cysteine Proteases,87121.66,2.09
+5j28,Phosphatases,24888.73,2.0
+7jvm,Phosphatases,42919.61,2.17
+1tb6,Serine Proteases,29342.41,2.5
+5dg5,Tyr Kinases,29189.27,2.6
+4qtx,Cysteine Proteases,11837.28,1.97
+8a21,Phosphatases,17974.67,2.18
+6t7h,Serine Proteases,25557.73,2.32
+2a05,Ion Channels,4605.14,
+5kr8,Aspartic Proteases,14971.07,2.12
+6fk5,Phosphatases,12488.16,2.02
+5bug,Phosphatases,59326.54,2.4
+1qx3,Cysteine Proteases,11251.61,1.9
+1d3d,Serine Proteases,13181.82,2.04
+2dko,Cysteine Proteases,12932.06,1.06
+3osl,Serine Proteases,29776.92,6.0
+4xey,Tyr Kinases,30762.81,2.89
+3ns7,Cysteine Proteases,12754.86,2.6
+2hgt,Serine Proteases,12518.11,2.2
+5hej,Ion Channels,133612.47,3.5
+6rcz,Phosphatases,23177.81,1.74
+6bn5,Phosphatases,40594.31,2.22
+1ta2,Serine Proteases,12452.68,2.3
+7es1,Glycosyltransferases,16968.27,1.66
+1cgw,Glycosyltransferases,23041.87,2.5
+2gmw,Phosphatases,17404.97,1.5
+7ju8,Metalloproteases,16593.37,2.0
+7q7e,Ser/Thr Kinases,13722.97,2.85
+4nwf,Phosphatases,44254.78,2.1
+8dvw,Glycosyltransferases,15904.96,2.29
+5jdu,Serine Proteases,26302.86,1.7
+1wt3,Glycosyltransferases,13644.15,1.8
+2v3o,Serine Proteases,13142.43,1.79
+5wfg,Glycosyltransferases,46401.77,2.9
+3egh,Phosphatases,33407.48,2.0
+6w07,Tyr Kinases,12702.20,1.51
+3db1,Phosphatases,42829.05,2.77
+1iqh,Serine Proteases,13100.57,3.0
+5eq8,Phosphatases,11700.33,1.3
+9g9x,Ion Channels,22676.02,3.13
+7dz7,Phosphatases,317467.77,2.84
+8eya,Phosphatases,26051.34,2.1
+3sd7,Phosphatases,11083.29,1.7
+4rcf,Aspartic Proteases,15970.84,1.78
+5rx3,Phosphatases,20396.92,1.45
+1pyo,Cysteine Proteases,21102.82,1.65
+5xez,GPCRs,93329.24,3.0
+3s7l,Aspartic Proteases,15829.85,2.16
+4zzb,Ion Channels,65392.83,3.4
+2bcj,GPCRs,62566.01,3.06
+8gvw,Ion Channels,123978.10,3.59
+1eo7,Glycosyltransferases,22576.44,2.48
+4fco,Aspartic Proteases,16137.83,1.76
+2j33,Cysteine Proteases,11066.91,2.0
+5fdp,Tyr Kinases,14910.55,2.25
+1tq7,Serine Proteases,13489.10,2.4
+4r0q,Glycosyltransferases,33823.64,2.0
+1iqk,Serine Proteases,13034.48,3.2
+1f5s,Phosphatases,19101.31,1.8
+6rxd,Phosphatases,40406.33,1.65
+3mn1,Phosphatases,76274.37,1.8
+1oyt,Serine Proteases,13038.55,1.67
+1opj,Tyr Kinases,28571.68,1.75
+2eef,Phosphatases,10913.32,
+4wh9,Phosphatases,9665.65,1.5
+4rtv,Tyr Kinases,4281.87,1.37
+1b7x,Serine Proteases,11742.82,2.1
+4yzg,Phosphatases,26232.23,1.6
+3n07,Phosphatases,29745.86,1.76
+1riw,Serine Proteases,13347.25,2.04
+4z9b,Phosphatases,8521.79,2.41
+2cm3,Phosphatases,24674.34,2.1
+5ka2,Phosphatases,12821.40,2.07
+6evv,Serine Proteases,16610.96,2.5
+1zc0,Phosphatases,12987.27,1.85
+1hv5,Metalloproteases,51550.77,2.6
+2bv5,Phosphatases,12392.75,1.8
+1yn9,Phosphatases,23270.21,1.5
+3ukm,Ion Channels,46369.76,3.4
+7zgh,Phosphatases,33727.42,1.41
+6nec,Tyr Kinases,25025.11,1.87
+7uy0,Tyr Kinases,40403.57,2.55
+3iaa,Glycosyltransferases,30758.95,2.51
+5cmx,Serine Proteases,16986.41,2.98
+8x4k,Glycosyltransferases,21279.03,1.9
+5djg,Phosphatases,12189.71,1.95
+7n4s,Tyr Kinases,12871.92,2.05
+4boh,Serine Proteases,24899.42,2.6
+7msp,Glycosyltransferases,32464.74,2.1
+6hjx,Ion Channels,83313.59,2.5
+2q47,Phosphatases,15058.78,3.3
+3ljz,Metalloproteases,32856.67,2.0
+5rx4,Phosphatases,20402.27,1.35
+1kma,Serine Proteases,4401.82,
+4qty,Cysteine Proteases,12046.57,1.6
+4jp9,Aspartic Proteases,18044.60,1.8
+9mex,Phosphatases,15051.81,2.6
+5xrf,Serine Proteases,10820.77,2.2
+3dkf,Tyr Kinases,14319.08,1.8
+6vtl,Ion Channels,57718.49,3.65
+5lm1,Phosphatases,20880.21,2.55
+6miz,Ion Channels,254153.12,6.1
+5hcj,Ion Channels,64133.17,2.95
+1d3p,Serine Proteases,13257.10,2.1
+1kh9,Phosphatases,27216.49,2.5
+2j94,Serine Proteases,13644.35,2.1
+3kqe,Serine Proteases,13570.32,2.35
+1mkw,Serine Proteases,25988.37,2.3
+1a46,Serine Proteases,12624.64,2.12
+3gxg,Phosphatases,30415.67,1.6
+1pyn,Phosphatases,13058.95,2.2
+8rtn,Serine Proteases,13161.34,2.51
+5eyh,Phosphatases,21943.22,2.5
+1i51,Cysteine Proteases,19536.07,2.45
+8ym4,Cysteine Proteases,88001.17,2.34
+7d36,Aspartic Proteases,15834.96,2.3
+6zgo,Serine Proteases,13061.68,1.79
+7q3g,Ion Channels,124568.10,3.5
+1hut,Serine Proteases,14778.52,2.9
+7be6,Tyr Kinases,15840.33,1.87
+2zi2,Serine Proteases,12932.73,1.65
+6tt2,Tyr Kinases,19443.30,1.36
+6cj0,Phosphatases,24472.38,1.9
+2wjd,Phosphatases,11215.86,2.8
+1lhd,Serine Proteases,12342.35,2.35
+3zty,Phosphatases,22342.27,2.5
+3a5k,Phosphatases,13356.21,1.85
+1wt2,Glycosyltransferases,13740.81,1.9
+7kpr,Phosphatases,34255.26,3.09
+1a4w,Serine Proteases,12108.13,1.8
+7f7b,Phosphatases,12271.44,2.34
+4avx,Tyr Kinases,12422.93,1.68
+4pni,GPCRs,24485.56,1.85
+9htx,Glycosyltransferases,51238.77,2.0
+5gim,Serine Proteases,13256.64,2.09
+1ura,Phosphatases,28144.06,2.04
+2p3f,Serine Proteases,17220.18,3.1
+1spv,Phosphatases,8401.18,2.0
+2c2o,Cysteine Proteases,12923.31,2.45
+5hew,Ion Channels,133205.07,4.5
+3gis,Serine Proteases,55855.51,2.4
+4ehl,Cysteine Proteases,18180.23,1.8
+4e3w,Phosphatases,26168.87,1.75
+1inp,Phosphatases,19372.02,2.3
+5jpe,Phosphatases,23752.82,2.61
+4xpz,Phosphatases,18255.90,1.45
+1ktt,Serine Proteases,12910.59,2.1
+3bdf,Phosphatases,27935.73,1.4
+2f6v,Phosphatases,13430.72,1.7
+2fp3,Cysteine Proteases,12856.62,2.5
+1uma,Serine Proteases,13029.38,2.0
+5mjy,Phosphatases,62624.11,2.25
+5gvv,Glycosyltransferases,34930.31,1.95
+8ynk,Cysteine Proteases,72254.79,3.62
+2gd4,Serine Proteases,59115.14,3.3
+3t5f,Serine Proteases,13119.95,1.45
+4da1,Phosphatases,11618.41,2.38
+5iar,Cysteine Proteases,12183.80,1.76
+3qcm,Phosphatases,27075.72,2.4
+4zvu,Cysteine Proteases,18921.84,2.6
+1y59,Serine Proteases,8998.49,1.2
+4cki,Tyr Kinases,14089.21,2.12
+2nz7,Cysteine Proteases,10433.31,1.9
+5rwz,Phosphatases,20389.05,1.42
+6of5,Phosphatases,59255.99,2.3
+2p4d,Phosphatases,9170.30,1.8
+3cth,Tyr Kinases,15862.90,2.3
+5n80,Glycosyltransferases,15726.41,1.92
+2xc0,Serine Proteases,13490.93,2.05
+2j34,Serine Proteases,14415.42,2.01
+2bzb,Phosphatases,9615.75,
+5rw7,Phosphatases,20285.38,1.23
+5rw5,Phosphatases,20374.93,1.38
+8wrj,Glycosyltransferases,18108.18,1.85
+1ayd,Phosphatases,5474.41,2.2
+3h2x,Phosphatases,14692.84,2.2
+1j4x,Phosphatases,9116.40,2.75
+5mls,Serine Proteases,12811.39,1.62
+7lhk,Phosphatases,28968.79,1.95
+5rwa,Phosphatases,20245.27,1.29
+5mm6,Serine Proteases,12796.85,1.29
+6eo6,Serine Proteases,15340.29,1.69
+2oxz,Metalloproteases,8226.86,1.9
+3fqe,Tyr Kinases,13945.51,2.5
+2pa5,Phosphatases,24953.04,1.6
+3kry,Metalloproteases,32802.28,1.9
+1sg8,Serine Proteases,24444.11,2.3
+5djk,Phosphatases,11502.22,1.8
+6ppm,Cysteine Proteases,41534.69,2.61
+6ae9,Phosphatases,21929.20,1.47
+6jt4,Aspartic Proteases,15805.91,2.2
+5ahg,Serine Proteases,12758.59,1.24
+3iit,Serine Proteases,12813.91,1.8
+5svq,Ion Channels,17939.36,3.25
+1a5y,Phosphatases,12550.39,2.5
+4ufd,Serine Proteases,13163.83,1.43
+7rnb,Cysteine Proteases,18371.39,1.75
+6bq1,Lipid Kinases,228886.44,3.6
+3uqp,Aspartic Proteases,15888.62,1.77
+4wnk,GPCRs,25403.09,2.42
+1nnl,Phosphatases,20846.25,1.53
+3f82,Tyr Kinases,13951.80,2.5
+7un4,Phosphatases,39589.15,2.7
+8hkk,Ion Channels,146808.48,2.84
+8flv,Tyr Kinases,12851.07,1.3
+7d8l,Phosphatases,9522.85,1.55
+2feq,Serine Proteases,13525.87,2.44
+4px7,Phosphatases,14382.85,3.2
+1bhx,Serine Proteases,12707.51,2.3
+4qui,Cysteine Proteases,24901.73,1.76
+6jt3,Aspartic Proteases,16103.23,2.4
+1rhm,Cysteine Proteases,18533.07,2.5
+2gfh,Phosphatases,12299.54,1.9
+2y5f,Serine Proteases,13572.12,1.29
+4mbb,Phosphatases,9688.67,1.85
+2i44,Phosphatases,41778.46,2.04
+8tk6,Phosphatases,16494.34,1.65
+8t57,Ion Channels,43510.01,2.7
+4h2e,Metalloproteases,15765.19,2.9
+2nt2,Phosphatases,19933.82,2.1
+2hhl,Phosphatases,37263.70,2.1
+6pjx,GPCRs,30223.08,1.96
+4b0q,Aspartic Proteases,16191.11,1.87
+6hjy,Ion Channels,79877.13,2.78
+1hcg,Serine Proteases,13630.52,2.2
+2jjm,Glycosyltransferases,157685.08,3.1
+3shc,Serine Proteases,12869.90,1.9
+4jza,Phosphatases,72081.99,2.58
+1u32,Phosphatases,12927.18,2.0
+4rkj,Serine Proteases,12824.80,1.7
+5rwq,Phosphatases,20210.70,1.32
+2dbd,Cysteine Proteases,6992.24,
+5ry7,Phosphatases,20232.70,1.6
+8yd7,Cysteine Proteases,82848.57,3.32
+7yix,Phosphatases,53859.21,2.96
+8qz1,Ion Channels,33706.48,3.59
+1doj,Serine Proteases,13193.21,1.7
+5i43,Metalloproteases,30880.86,1.95
+1tcm,Glycosyltransferases,45560.70,2.2
+1rjd,Phosphatases,42643.84,1.8
+2rfl,Phosphatases,51784.87,2.35
+5tj3,Phosphatases,19814.12,1.7
+5ryk,Phosphatases,20387.09,1.55
+1ypl,Serine Proteases,13008.99,1.85
+6zv8,Serine Proteases,12968.58,1.7
+7s7m,Metalloproteases,15461.73,3.0
+5afz,Serine Proteases,12637.27,1.53
+8ovt,Glycosyltransferases,53853.70,2.3
+5dxi,Phosphatases,26775.59,2.0
+4zj7,Phosphatases,44857.37,2.4
+2j38,Serine Proteases,13961.49,2.1
+1y02,Cysteine Proteases,6081.80,1.8
+4loy,Serine Proteases,13278.75,1.77
+6gwe,Serine Proteases,24932.13,2.3
+2xc5,Serine Proteases,13505.15,1.7
+3tls,Ion Channels,63253.08,3.2
+2a1d,Serine Proteases,56678.58,3.5
+4kbp,Phosphatases,59945.60,2.7
+2xby,Serine Proteases,13602.00,2.02
+3is9,Metalloproteases,47587.68,2.55
+1qj1,Serine Proteases,14099.23,2.0
+9g9v,Ion Channels,24816.28,3.32
+3fqs,Tyr Kinases,13609.19,2.1
+4rap,Glycosyltransferases,187252.06,2.88
+1jeg,Phosphatases,5373.56,
+3cbt,Phosphatases,10587.92,1.7
+6bmy,Phosphatases,42882.10,2.09
+2edy,Phosphatases,5916.14,
+4fc4,Ion Channels,74559.38,2.4
+5ias,Cysteine Proteases,12044.99,1.54
+6bpz,Ion Channels,145741.27,3.8
+5ka8,Phosphatases,13198.82,1.97
+8dgz,Cysteine Proteases,17722.44,2.8
+2f70,Phosphatases,13346.38,2.12
+4yhj,GPCRs,44075.14,2.6
+5i2z,Metalloproteases,30512.82,2.3
+3pdw,Phosphatases,12121.19,1.6
+2h4y,Cysteine Proteases,12936.94,1.9
+3l8f,Phosphatases,9122.69,1.79
+6ihu,Phosphatases,10008.39,1.84
+2cnf,Phosphatases,13742.17,2.2
+6kmz,Cysteine Proteases,60048.80,3.61
+5bzx,Phosphatases,59348.59,2.5
+2vqr,Phosphatases,20421.66,1.42
+2xyh,Cysteine Proteases,12067.28,1.89
+6z8w,Serine Proteases,14084.20,1.73
+3fqh,Tyr Kinases,25157.27,2.26
+8dhj,Phosphatases,23741.38,1.48
+1sc1,Cysteine Proteases,13821.51,2.6
+2q05,Phosphatases,34535.81,2.57
+2cfs,Phosphatases,13358.00,2.4
+6nzr,Tyr Kinases,23387.87,2.56
+2c8w,Serine Proteases,13197.26,1.96
+2nym,Phosphatases,113569.11,3.6
+2nxf,Phosphatases,13796.00,1.7
+3sxs,Tyr Kinases,13063.37,1.89
+3v0j,Phosphatases,28976.69,1.72
+3si3,Serine Proteases,13128.75,1.55
+6hv2,Metalloproteases,8701.19,1.71
+4n00,Aspartic Proteases,17833.39,1.8
+3et4,Phosphatases,12503.84,1.7
+5u1u,Ion Channels,17303.16,3.6
+7e0j,Phosphatases,41829.26,3.13
+5jjt,Phosphatases,38878.82,2.1
+9jq0,Phosphatases,10782.02,1.93
+1rpt,Phosphatases,15799.28,3.0
+5dxn,Phosphatases,13479.55,1.65
+5zma,Phosphatases,36076.52,3.18
+1awf,Serine Proteases,13237.18,2.2
+7un0,Phosphatases,39826.01,3.0
+2hpp,Serine Proteases,15703.49,3.3
+1alh,Phosphatases,26462.91,2.5
+4fyg,Phosphatases,31449.51,2.82
+1xzw,Phosphatases,29413.44,2.5
+1mu8,Serine Proteases,12806.14,2.0
+1xbc,Tyr Kinases,12768.73,2.0
+3q3h,Glycosyltransferases,49105.15,2.25
+3j9p,Ion Channels,109564.21,4.24
+4ueh,Serine Proteases,12831.14,1.16
+3qwc,Serine Proteases,13114.61,1.75
+8yni,Cysteine Proteases,84708.41,3.66
+2xq6,Ion Channels,64731.27,3.7
+3igq,Ion Channels,50214.11,2.3
+4i0t,Tyr Kinases,13341.10,1.7
+4dv9,Aspartic Proteases,16601.91,2.08
+3dkg,Tyr Kinases,13597.13,1.91
+5rwg,Phosphatases,20346.15,1.46
+2pjt,Metalloproteases,32155.61,2.8
+1way,Serine Proteases,13190.49,2.02
+7f8h,Phosphatases,35803.43,3.3
+3l0c,Phosphatases,17469.33,2.45
+3kqd,Serine Proteases,13609.56,2.75
+2h9t,Serine Proteases,12338.04,2.4
+3sv2,Serine Proteases,13086.15,1.3
+5mqh,Phosphatases,12868.01,2.45
+5xa6,Ion Channels,3453.24,
+8znm,Glycosyltransferases,70862.26,2.21
+8ed9,Ion Channels,187376.79,3.4
+2y5h,Serine Proteases,13684.18,1.33
+4ps0,Cysteine Proteases,19491.55,1.63
+1rmt,Phosphatases,39533.35,1.4
+4pic,Phosphatases,15542.54,1.4
+8a8k,Phosphatases,80546.52,3.1
+3pgl,Phosphatases,17735.79,2.35
+1ute,Phosphatases,12398.58,1.55
+6e4b,Phosphatases,33536.33,2.55
+5c66,Phosphatases,27456.40,2.03
+8ujm,Phosphatases,23614.59,2.16
+1pex,Metalloproteases,9548.96,2.7
+5ioh,Phosphatases,24936.06,2.57
+3dw8,Phosphatases,107503.37,2.85
+4xdk,Ion Channels,47535.09,3.6
+1nu7,Serine Proteases,54269.05,2.2
+5ibs,Phosphatases,42960.48,2.32
+2v5y,Phosphatases,29037.64,3.1
+3tlv,Ion Channels,65138.19,2.9
+5vjw,Phosphatases,13338.73,1.8
+7mog,Phosphatases,14383.56,1.8
+1g1g,Phosphatases,14207.63,2.2
+5u6o,Ion Channels,86692.34,3.5
+3lcb,Phosphatases,79412.67,2.9
+1c83,Phosphatases,13276.58,1.8
+6yn3,Serine Proteases,12878.76,1.49
+7s4f,Phosphatases,13381.41,1.65
+4tnb,GPCRs,25922.89,2.11
+2ivu,Tyr Kinases,13964.80,2.5
+5uq6,Phosphatases,12628.15,1.18
+6iht,Phosphatases,11434.49,1.57
+5pzr,Phosphatases,45080.97,1.9
+5vkq,Ion Channels,247791.39,3.55
+1alj,Phosphatases,27296.13,2.6
+5rxg,Phosphatases,20230.31,1.52
+3slr,Phosphatases,18120.38,1.71
+6nzh,Tyr Kinases,21817.70,2.73
+5rwt,Phosphatases,20400.63,1.43
+2h48,Cysteine Proteases,13503.58,2.2
+5ka4,Phosphatases,12613.32,2.19
+1rww,Cysteine Proteases,13879.10,2.8
+2hnq,Phosphatases,12483.75,2.85
+1ajc,Phosphatases,28233.19,2.5
+4jj7,Cysteine Proteases,12077.86,1.18
+2vwm,Serine Proteases,26536.44,1.96
+3e84,Phosphatases,25729.60,1.85
+3qcb,Phosphatases,25478.73,2.1
+5eq9,Phosphatases,40024.53,1.36
+3c4f,Tyr Kinases,29943.53,2.07
+2vwl,Serine Proteases,12830.31,1.8
+6q6j,Phosphatases,21818.64,1.99
+2qts,Ion Channels,107723.89,1.9
+2r2m,Serine Proteases,12998.62,2.1
+3r6l,Cysteine Proteases,20443.08,1.9
+2shp,Phosphatases,43695.99,2.0
+8gdl,Phosphatases,29814.14,1.75
+1ali,Phosphatases,26856.33,2.2
+5tpq,Phosphatases,27665.53,2.45
+1z71,Serine Proteases,12728.68,1.8
+3gic,Serine Proteases,12915.85,1.55
+1yts,Phosphatases,12257.19,2.5
+1tap,Serine Proteases,4445.04,
+1lhc,Serine Proteases,12445.05,1.95
+5zkk,Phosphatases,16492.21,2.0
+7v3t,Serine Proteases,3474.47,
+1vr0,Phosphatases,30285.96,2.49
+3m4u,Phosphatases,24980.44,2.39
+2cnn,Cysteine Proteases,13186.64,1.7
+7ov8,Phosphatases,12702.04,2.3
+6ihs,Phosphatases,12167.01,1.4
+1bmn,Serine Proteases,13202.30,2.8
+4mlf,Serine Proteases,16065.81,2.2
+3dqb,GPCRs,15266.62,3.2
+1a2c,Serine Proteases,12754.44,2.1
+6wbi,Cysteine Proteases,115935.99,4.39
+1srr,Phosphatases,17278.90,1.9
+4bao,Serine Proteases,13135.76,1.87
+6rvz,Phosphatases,15247.09,2.1
+3tpj,Aspartic Proteases,16103.64,1.61
+3r7n,Cysteine Proteases,20583.39,2.33
+1ywf,Phosphatases,10230.06,1.71
+1kh4,Phosphatases,26896.23,2.4
+2h54,Cysteine Proteases,13441.59,1.8
+4bfr,Phosphatases,74581.76,2.8
+4az2,Serine Proteases,14552.19,2.6
+3rml,Serine Proteases,13076.51,1.53
+2zf0,Serine Proteases,12530.47,2.2
+8u8x,Tyr Kinases,15108.01,1.69
+9ftg,Ion Channels,133775.63,3.1
+3pd0,Cysteine Proteases,11727.35,2.0
+6v4a,Ion Channels,132909.46,3.83
+4a7i,Serine Proteases,13465.49,2.4
+6bz9,Cysteine Proteases,13383.74,1.8
+8tf5,GPCRs,18571.39,2.1
+5rx2,Phosphatases,20316.25,1.27
+2j7t,Ser/Thr Kinases,15291.57,2.0
+2thf,Serine Proteases,12146.99,2.1
+2hbz,Cysteine Proteases,12872.13,1.9
+5dji,Phosphatases,12167.17,1.66
+6vti,Phosphatases,8464.93,
+4omq,Tyr Kinases,5577.90,2.0
+2i75,Phosphatases,12080.20,2.45
+3qkp,Phosphatases,13108.09,2.05
+1ypm,Serine Proteases,12742.77,1.85
+1ohc,Phosphatases,15607.89,2.5
+2ge9,Tyr Kinases,8067.39,
+4ayy,Serine Proteases,14509.08,2.6
+5eq7,Phosphatases,11619.85,1.19
+6pqo,Ion Channels,120373.65,2.88
+5tt7,Tyr Kinases,13953.70,1.77
+6vhg,Tyr Kinases,14033.35,2.3
+1nzq,Serine Proteases,13342.01,2.18
+8exk,Phosphatases,13371.82,2.1
+1c4u,Serine Proteases,12800.85,2.1
+6wbg,Cysteine Proteases,91664.20,2.97
+6ckz,Cysteine Proteases,11934.58,1.5
+4ps1,Cysteine Proteases,43501.86,1.73
+9cgt,Glycosyltransferases,23139.60,2.5
+3qn1,Phosphatases,21053.71,1.8
+5glj,Phosphatases,17431.81,1.6
+3tlu,Ion Channels,63498.20,2.85
+5iag,Cysteine Proteases,11996.97,1.98
+5rxx,Phosphatases,20399.35,1.43
+1d1q,Phosphatases,15530.71,1.7
+4nyh,Phosphatases,24362.79,1.2
+1ths,Serine Proteases,13355.65,2.2
+8ef4,Serine Proteases,2125.82,
+4wbo,GPCRs,96236.28,2.81
+1k7h,Phosphatases,38378.94,1.92
+4jr2,Cysteine Proteases,18387.72,1.65
+1v3l,Glycosyltransferases,44805.24,2.1
+6gbd,Phosphatases,9091.06,
+6tdt,Serine Proteases,13099.39,1.53
+1g37,Serine Proteases,12826.18,2.0
+1zvx,Metalloproteases,7794.18,1.87
+3emg,Tyr Kinases,12776.63,2.6
+1shj,Cysteine Proteases,18026.24,2.8
+5i3v,Aspartic Proteases,16139.35,1.62
+1dwb,Serine Proteases,13664.73,3.16
+3vf8,Tyr Kinases,12283.89,2.08
+2ahs,Phosphatases,24546.55,2.1
+5rw9,Phosphatases,20435.96,1.45
+1g2l,Serine Proteases,14125.98,1.9
+4fww,Tyr Kinases,21875.74,1.85
+6roz,Phosphatases,12092.56,2.89
+1qdu,Cysteine Proteases,58089.41,2.8
+2p6w,Glycosyltransferases,9890.95,1.6
+1gfy,Phosphatases,13069.21,2.13
+2cm8,Phosphatases,13381.26,2.1
+3ibf,Cysteine Proteases,18768.67,2.5
+4ueu,Tyr Kinases,13093.71,2.95
+4zha,Serine Proteases,13739.17,1.86
+1xka,Serine Proteases,15845.68,2.3
+1c84,Phosphatases,13073.61,2.35
+3hk4,Phosphatases,24447.08,1.96
+4ume,Phosphatases,8444.62,2.09
+1ba8,Serine Proteases,12774.99,1.8
+5huz,Phosphatases,6935.04,
+3c48,Glycosyltransferases,33806.16,2.1
+1r1w,Tyr Kinases,14393.81,1.8
+8j7m,Ion Channels,48583.79,3.1
+6rxg,Phosphatases,39958.50,1.71
+6d3v,Phosphatases,22788.94,1.8
+1pxh,Phosphatases,13533.76,2.15
+6rw0,Phosphatases,15574.71,1.45
+5rya,Phosphatases,20106.60,1.32
+4zvs,Cysteine Proteases,18969.17,2.5
+1q6p,Phosphatases,25512.22,2.3
+7x6c,Ion Channels,126851.88,3.15
+1tmu,Serine Proteases,13493.40,2.5
+3c27,Serine Proteases,12861.43,2.18
+1nfy,Serine Proteases,13767.36,2.1
+5rxk,Phosphatases,20281.05,1.46
+2yxo,Phosphatases,20671.84,1.6
+1r80,Glycosyltransferases,14141.95,1.65
+9c50,Serine Proteases,24886.98,2.5
+1ani,Phosphatases,27897.26,2.5
+3hki,Serine Proteases,27569.33,2.2
+4twf,Ion Channels,133423.38,3.9
+5ic6,Cysteine Proteases,18260.18,2.7
+8tu3,Tyr Kinases,12448.01,1.7
+2gp9,Serine Proteases,12747.26,1.87
+7f7d,Phosphatases,12258.22,2.2
+1azg,Tyr Kinases,5014.71,
+7phx,Serine Proteases,12609.29,1.8
+6x25,Phosphatases,15617.88,3.2
+1avh,Ion Channels,30074.26,2.3
+4bx3,Phosphatases,24769.66,2.19
+8tu4,Tyr Kinases,12303.57,1.6
+5rw8,Phosphatases,20303.12,1.27
+8exm,Phosphatases,13139.16,2.35
+6zuh,Serine Proteases,13432.75,1.7
+1nt1,Serine Proteases,12534.31,2.0
+3qup,Tyr Kinases,12670.96,1.9
+2qj2,Tyr Kinases,17618.49,1.81
+2zdv,Serine Proteases,12938.35,1.72
+4xlv,Tyr Kinases,16298.54,2.3
+4qh4,Ion Channels,63083.34,3.2
+8ejb,Tyr Kinases,13274.13,1.58
+4fdl,Cysteine Proteases,18947.76,2.8
+1ucy,Serine Proteases,38561.36,2.2
+1eo5,Glycosyltransferases,22746.78,2.0
+7k7l,GPCRs,46207.26,2.54
+7yp6,Glycosyltransferases,47201.17,2.6
+3v4l,Cysteine Proteases,17760.96,3.15
+4zpg,Aspartic Proteases,16113.49,2.0
+8sv1,Cysteine Proteases,37616.82,3.5
+9fth,Ion Channels,137079.26,2.9
+7moh,Phosphatases,14571.78,1.9
+6wus,Phosphatases,15327.78,2.76
+3it2,Phosphatases,25948.84,1.84
+4rko,Serine Proteases,13084.52,1.84
+7usp,Cysteine Proteases,18659.76,2.85
+8uap,GPCRs,25219.74,2.5
+5svt,Ion Channels,18271.59,3.79
+3c7t,Phosphatases,42590.00,1.76
+1uvu,Serine Proteases,12321.03,2.8
+5uvc,GPCRs,24386.35,2.65
+6z0p,Tyr Kinases,21015.72,1.85
+3gqi,Tyr Kinases,26874.43,2.5
+6aub,Tyr Kinases,12682.46,1.65
+1xmn,Serine Proteases,50352.37,1.85
+3f41,Phosphatases,51300.38,2.3
+6agw,Cysteine Proteases,13076.84,2.09
+4ouu,Metalloproteases,36874.72,2.6
+7w1b,Glycosyltransferases,19488.92,2.15
+4qqt,Tyr Kinases,14320.82,1.5
+6inh,Glycosyltransferases,18701.65,2.1
+4dt7,Serine Proteases,25864.69,1.9
+6t53,Serine Proteases,12902.56,1.35
+6i51,Serine Proteases,12812.90,1.4
+3ily,Phosphatases,13996.18,2.2
+6bmr,Phosphatases,43260.25,2.21
+5j8r,Phosphatases,51790.48,2.04
+3ij5,Phosphatases,27649.64,1.95
+4r30,Phosphatases,32012.43,2.3
+4omp,Tyr Kinases,5472.79,2.0
+2y81,Serine Proteases,13583.55,1.7
+1tft,Cysteine Proteases,9587.43,
+1tom,Serine Proteases,12874.67,1.8
+2zhw,Serine Proteases,12549.57,2.02
+4qh1,Ion Channels,62727.82,3.4
+1ycp,Serine Proteases,24670.52,2.5
+2r0b,Phosphatases,7480.04,1.6
+3uu6,Ion Channels,63101.38,2.98
+4kyr,Phosphatases,10684.54,2.3
+1hao,Serine Proteases,14481.10,2.8
+7lfo,Phosphatases,12718.75,1.94
+3k54,Tyr Kinases,12896.64,1.94
+5k9w,Phosphatases,13331.07,2.01
+5jrs,Tyr Kinases,22590.29,1.97
+3nb7,Glycosyltransferases,9832.27,2.65
+4as3,Phosphatases,51295.76,2.4
+7n5e,Ion Channels,112359.92,2.8
+6x8i,Cysteine Proteases,17629.86,1.5
+1irk,Tyr Kinases,14919.69,2.1
+6t8a,Serine Proteases,12796.45,1.62
+3tpl,Aspartic Proteases,46012.92,2.5
+6t55,Serine Proteases,12775.37,1.39
+2rh1,GPCRs,22728.80,2.4
+9frr,Cysteine Proteases,9357.68,1.6
+7xe4,Glycosyltransferases,76667.00,3.4
+5k20,Cysteine Proteases,19126.52,2.2
+2pr3,Serine Proteases,13476.87,1.5
+2z72,Phosphatases,14482.21,1.1
+4b05,Aspartic Proteases,16275.98,1.8
+1een,Phosphatases,14019.76,1.9
+6nry,Cysteine Proteases,12502.03,2.18
+5ryl,Phosphatases,20278.75,1.55
+1sc4,Cysteine Proteases,12989.25,2.1
+2i0o,Phosphatases,14048.04,1.7
+6s9k,Cysteine Proteases,12675.20,1.6
+6pzp,Cysteine Proteases,13408.86,1.94
+1ir3,Tyr Kinases,15443.57,1.9
+2ifd,Phosphatases,9436.35,2.0
+4zvr,Cysteine Proteases,18643.31,2.3
+1a0n,Tyr Kinases,4938.24,
+3krl,Tyr Kinases,13349.17,2.4
+1lck,Tyr Kinases,9891.48,2.5
+5rxo,Phosphatases,20375.03,1.71
+8qfw,Phosphatases,25118.82,2.0
+1eoi,Phosphatases,27566.79,2.4
+2wmy,Phosphatases,49624.21,2.21
+5dxo,Phosphatases,27839.31,1.9
+4jdp,Phosphatases,21902.20,1.76
+7x6i,Ion Channels,186475.55,3.93
+6tkh,Serine Proteases,13170.88,1.9
+5k9v,Phosphatases,12688.09,1.9
+2hdo,Phosphatases,10107.21,1.5
+1d2a,Phosphatases,15059.39,1.9
+1r0p,Tyr Kinases,15041.05,1.8
+4i9g,Phosphatases,28603.76,3.25
+3j5q,Ion Channels,115458.07,3.8
+5ew2,Serine Proteases,17294.26,3.59
+2isn,Phosphatases,28222.72,1.9
+7yp5,Glycosyltransferases,31701.54,2.33
+2j86,Phosphatases,21358.49,3.05
+6bmx,Phosphatases,43279.43,2.42
+4pbv,Phosphatases,52425.99,2.5
+2j31,Cysteine Proteases,12028.05,1.5
+3d66,Serine Proteases,47462.10,3.1
+1rja,Tyr Kinases,6310.85,
+3u9a,Serine Proteases,13082.93,1.58
+1kmc,Cysteine Proteases,20265.86,2.9
+3edr,Cysteine Proteases,19050.37,2.45
+6ghm,Phosphatases,41894.87,2.15
+1jk3,Metalloproteases,8281.80,1.09
+2pq6,Glycosyltransferases,19640.03,2.1
+3pmb,Serine Proteases,24542.99,2.9
+4dgp,Phosphatases,22153.11,2.3
+1nz7,Phosphatases,13024.67,2.4
+1zs0,Metalloproteases,7846.45,1.56
+5z55,Tyr Kinases,5274.74,
+6hz1,Ion Channels,63363.36,2.5
+2iep,Tyr Kinases,20376.48,2.21
+1thr,Serine Proteases,12778.43,2.3
+4ex7,Phosphatases,9612.35,1.5
+2bvx,Serine Proteases,13506.42,3.2
+8eyc,Phosphatases,13438.14,2.99
+3hqc,Phosphatases,7900.51,1.8
+7xs7,Glycosyltransferases,70461.70,3.2
+2m0b,Tyr Kinases,7803.86,
+7umv,Phosphatases,7577.20,1.8
+7vxg,Phosphatases,83895.59,2.1
+2y0b,Cysteine Proteases,28039.32,2.1
+3cz4,Phosphatases,11186.59,1.7
+2vvv,Serine Proteases,14065.58,1.73
+8wyw,Tyr Kinases,24774.38,1.9
+1i9z,Phosphatases,15962.21,1.8
+4in9,Metalloproteases,7728.43,1.55
+2i0y,Tyr Kinases,13926.30,1.9
+1ys0,Phosphatases,9204.73,2.0
+5rwb,Phosphatases,20302.55,1.25
+4job,Phosphatases,16983.34,2.17
+6bo5,Ion Channels,125210.92,3.6
+4um5,Phosphatases,26327.25,2.34
+1t3k,Phosphatases,8890.94,
+4baq,Serine Proteases,13037.66,1.89
+3d6m,Cysteine Proteases,13400.05,1.8
+3qlp,Serine Proteases,14945.30,2.14
+2dju,Phosphatases,6583.93,
+3ld3,Phosphatases,15673.47,1.75
+5h8x,Metalloproteases,8167.40,1.3
+6tkl,Serine Proteases,13552.38,1.3
+1d3c,Glycosyltransferases,22839.49,1.78
+5ibp,Cysteine Proteases,12013.19,1.38
+2yd9,Phosphatases,15787.07,2.6
+1grm,Ion Channels,2838.06,
+1ypt,Phosphatases,24422.65,2.5
+3p50,Ion Channels,63298.31,3.3
+4w6q,Glycosyltransferases,49760.81,2.7
+1fq1,Phosphatases,22663.35,3.0
+4ykn,Lipid Kinases,52788.80,2.9
+6cym,Serine Proteases,24661.35,2.9
+7qfb,Phosphatases,13437.16,2.05
+1rwv,Cysteine Proteases,13576.50,2.1
+3oez,Tyr Kinases,25714.05,2.4
+3s3w,Ion Channels,51059.68,2.6
+3tlt,Ion Channels,63424.58,3.3
+4an6,Serine Proteases,15534.92,1.94
+4c1r,Phosphatases,42435.85,2.1
+8dvz,Glycosyltransferases,16193.42,2.27
+4ij5,Phosphatases,17568.12,1.5
+6dhc,Aspartic Proteases,47149.60,2.85
+4qul,Cysteine Proteases,18536.68,1.9
+4ge6,Phosphatases,26728.53,1.4
+8wrk,Glycosyltransferases,18157.00,2.03
+2y5g,Serine Proteases,13612.42,1.29
+6cl1,Cysteine Proteases,17943.96,2.65
+2c93,Serine Proteases,13211.43,2.2
+8u7x,Phosphatases,44652.62,2.06
+2zva,Tyr Kinases,12759.87,2.6
+6wen,Phosphatases,8013.05,1.35
+4lz1,Serine Proteases,14400.87,1.65
+1zgv,Serine Proteases,12626.92,2.2
+5bq0,Tyr Kinases,13132.07,1.57
+2a3k,Phosphatases,12985.95,2.55
+5dxf,Phosphatases,41138.84,2.56
+2i3u,Phosphatases,13194.71,1.85
+2f6t,Phosphatases,13375.41,1.7
+2d1n,Metalloproteases,16001.87,2.37
+4fgx,Aspartic Proteases,16018.92,1.59
+6nsl,Tyr Kinases,21705.69,2.15
+8qz2,Ion Channels,27391.91,3.5
+2cfv,Phosphatases,13113.19,2.5
+5ygx,Aspartic Proteases,16093.25,2.2
+2p6x,Phosphatases,26388.93,1.9
+4ygs,Phosphatases,10774.46,1.7
+6zk6,Phosphatases,11900.04,1.9
+2yz5,Phosphatases,20566.77,2.1
+1bmm,Serine Proteases,13461.06,2.6
+6gn7,Serine Proteases,16481.01,2.8
+5hcm,Ion Channels,64390.93,3.15
+2zhq,Serine Proteases,12868.41,1.96
+5rxh,Phosphatases,20096.79,1.42
+1nrq,Serine Proteases,13413.13,3.5
+9hu9,Glycosyltransferases,50096.42,2.4
+5jki,Phosphatases,11257.09,2.25
+4eqm,Ser/Thr Kinases,74136.65,3.0
+3jvi,Phosphatases,7792.33,1.8
+1nd5,Phosphatases,56976.43,2.9
+3s8e,Cysteine Proteases,69218.57,2.88
+3dkc,Tyr Kinases,14357.72,1.52
+1bqq,Metalloproteases,16982.71,2.75
+9uce,Glycosyltransferases,19662.84,2.2
+5u2h,Ion Channels,34388.68,3.9
+6fek,Tyr Kinases,14458.95,2.3
+1g4u,Phosphatases,24803.66,2.3
+2ar9,Cysteine Proteases,36009.36,2.8
+3s7k,Serine Proteases,26538.45,1.9
+3ayu,Metalloproteases,8242.29,2.0
+6hz0,Ion Channels,62170.45,2.75
+6qf4,Ser/Thr Kinases,15939.36,2.5
+9grh,Phosphatases,85096.23,3.2
+7btg,Phosphatases,8148.33,2.19
+1nt4,Phosphatases,33478.94,2.4
+3tqf,Phosphatases,17522.73,2.8
+1bb0,Serine Proteases,12101.56,2.1
+3rly,Serine Proteases,13206.08,1.51
+1nny,Phosphatases,13175.44,2.4
+2xs4,Metalloproteases,7919.99,1.7
+1g30,Serine Proteases,12666.66,2.0
+8hjl,Glycosyltransferases,37778.61,1.72
+2k1k,Tyr Kinases,5987.56,
+7doq,Phosphatases,55473.62,2.2
+4r3j,Glycosyltransferases,32156.91,2.44
+1p8a,Phosphatases,8322.11,
+2vh6,Serine Proteases,13727.29,1.95
+3s70,Cysteine Proteases,19422.89,1.63
+6inf,Glycosyltransferases,19322.55,1.69
+1nd6,Phosphatases,56193.79,2.4
+5q04,Phosphatases,88920.89,2.5
+6alz,Phosphatases,23365.36,2.21
+4yhf,Tyr Kinases,24712.28,2.2
+8ynn,Cysteine Proteases,64141.70,3.97
+3liw,Serine Proteases,13384.08,2.22
+1d1p,Phosphatases,15387.21,2.2
+2wyg,Serine Proteases,13318.85,1.88
+2img,Phosphatases,7152.25,1.93
+6ubw,Tyr Kinases,14956.14,2.0
+4omn,Tyr Kinases,5660.06,1.5
+3ine,Aspartic Proteases,15882.98,2.0
+5zty,GPCRs,23530.43,2.8
+5kqf,Aspartic Proteases,15121.04,1.98
+4kc2,Glycosyltransferases,14133.99,1.7
+4e7r,Serine Proteases,24312.31,2.25
+4egs,Phosphatases,13929.75,2.3
+6olq,Phosphatases,13294.19,2.1
+1abo,Tyr Kinases,8237.64,2.0
+1aax,Phosphatases,13390.16,1.9
+2bq7,Serine Proteases,13433.18,2.2
+9fq5,Phosphatases,13274.43,1.9
+3rmm,Serine Proteases,13072.25,1.58
+2g2i,Tyr Kinases,26522.14,3.12
+3dek,Cysteine Proteases,36842.59,2.4
+2afq,Serine Proteases,23334.87,1.93
+3pnn,Glycosyltransferases,15126.66,1.9
+3kjq,Cysteine Proteases,12182.65,1.8
+1uvt,Serine Proteases,12159.57,2.5
+7kwd,Phosphatases,31517.36,2.1
+6ini,Glycosyltransferases,19199.19,1.7
+3c4y,GPCRs,50154.13,7.51
+5eke,Glycosyltransferases,55673.54,3.0
+1ujx,Phosphatases,7805.40,
+3esq,Phosphatases,8707.50,1.7
+6pfw,Phosphatases,13403.04,2.34
+2yd1,Phosphatases,10537.71,1.8
+4htj,Phosphatases,5335.35,2.01
+2p27,Phosphatases,13248.34,1.9
+1k2p,Tyr Kinases,24538.25,2.1
+1v3j,Glycosyltransferases,43420.11,2.0
+3dpc,Phosphatases,29073.58,2.3
+1g1f,Phosphatases,14199.28,2.0
+4jje,Cysteine Proteases,11961.32,1.48
+6bh9,Cysteine Proteases,19340.16,1.94
+5rwd,Phosphatases,20426.98,1.29
+1v73,Phosphatases,13890.85,1.82
+4wtu,Aspartic Proteases,16095.74,1.85
+2y7z,Serine Proteases,13723.96,1.84
+1iqj,Serine Proteases,13097.08,3.0
+5svp,Ion Channels,36572.92,3.3
+1yv9,Phosphatases,22103.60,2.8
+1onv,Phosphatases,6361.58,
+3da4,Phosphatases,21904.48,1.7
+4qqc,Tyr Kinases,13912.91,2.4
+3wad,Glycosyltransferases,31704.00,2.0
+4i1r,Cysteine Proteases,17149.87,2.7
+2xyp,Cysteine Proteases,12080.42,1.86
+4b1t,Serine Proteases,23901.56,1.78
+4ehk,Cysteine Proteases,17916.41,1.67
+3qlg,Tyr Kinases,24786.14,2.75
+2gde,Serine Proteases,13095.05,2.0
+1cwy,Glycosyltransferases,20925.41,2.0
+3mk2,Phosphatases,19485.63,1.89
+5i0l,Metalloproteases,15777.18,2.45
+3qcn,Phosphatases,13571.18,2.41
+5lg3,Ion Channels,130712.81,3.57
+1qj7,Serine Proteases,14137.96,2.2
+5pzq,Phosphatases,45108.20,2.7
+3zim,Lipid Kinases,41519.80,2.85
+3ctj,Tyr Kinases,15269.13,2.5
+7moi,Phosphatases,14510.39,1.8
+1ql7,Serine Proteases,8850.66,2.1
+3i7z,Phosphatases,13624.76,2.3
+1kh5,Phosphatases,26613.09,2.0
+3mk1,Phosphatases,19751.95,1.57
+7wr5,Cysteine Proteases,35775.19,3.1
+1ae8,Serine Proteases,13153.49,2.0
+6jse,Aspartic Proteases,15803.84,2.0
+1urb,Phosphatases,27369.51,2.14
+5l6n,Serine Proteases,14055.72,1.63
+3v0e,Phosphatases,16169.59,1.65
+4oml,Tyr Kinases,5668.27,1.6
+2g9y,Phosphatases,27961.97,2.0
+3u8o,Serine Proteases,12602.20,1.28
+2zjn,Aspartic Proteases,16077.61,2.7
+3it3,Phosphatases,28520.42,1.5
+5ryd,Phosphatases,20344.05,1.6
+3m36,Serine Proteases,13215.37,2.15
+6y02,Serine Proteases,12803.72,1.48
+3kjf,Cysteine Proteases,12139.49,2.0
+2vey,Phosphatases,13741.77,2.2
+2uuk,Serine Proteases,13512.43,1.39
+1y7a,Phosphatases,28021.93,1.77
+5jzy,Serine Proteases,12758.87,1.27
+5rwu,Phosphatases,20357.51,1.37
+4fyn,Tyr Kinases,13529.79,2.32
+8ddu,Ion Channels,187035.50,3.0
+3ocu,Phosphatases,12865.03,1.35
+5ttt,Ion Channels,6982.89,
+1rjf,Phosphatases,42359.67,2.25
+6cmc,Ion Channels,21808.19,3.67
+2yd8,Phosphatases,11345.11,2.05
+4bah,Serine Proteases,13320.12,1.94
+1u02,Phosphatases,11493.53,1.92
+5ovx,Phosphatases,13485.72,2.1
+2nlk,Phosphatases,24851.54,2.4
+1gfw,Cysteine Proteases,11899.33,2.8
+5pzt,Phosphatases,91454.59,2.8
+3qci,Phosphatases,13472.87,2.27
+4udw,Serine Proteases,12883.77,1.16
+3ro1,Phosphatases,7669.84,1.9
+1zgg,Phosphatases,7436.07,
+4thn,Serine Proteases,13379.79,2.5
+4qjg,Glycosyltransferases,33996.22,1.85
+9g9w,Ion Channels,23813.84,2.48
+3e7b,Phosphatases,22809.64,1.7
+5rw6,Phosphatases,20319.43,1.32
+2yy6,Phosphatases,19074.09,2.3
+9m7l,Phosphatases,10168.86,1.36
+9ft7,Ion Channels,23525.43,3.16
+1fjm,Phosphatases,23859.15,2.1
+5rwf,Phosphatases,20337.34,1.35
+2j32,Cysteine Proteases,11945.18,1.3
+4pfx,Glycosyltransferases,12729.09,1.66
+7uw6,Phosphatases,7901.26,1.5
+5rw4,Phosphatases,20349.32,1.31
+2zg0,Serine Proteases,12751.91,1.75
+5f24,Phosphatases,21775.72,2.5
+6roy,Phosphatases,11710.54,2.1
+2bvr,Serine Proteases,13345.41,1.25
+8pdi,Phosphatases,20704.50,1.3
+1xbb,Tyr Kinases,12986.76,1.57
+5b5p,Metalloproteases,16913.66,1.6
+8q4s,Phosphatases,12534.42,2.08
+8rz3,Glycosyltransferases,37960.02,2.15
+4gpo,GPCRs,30199.30,3.5
+5sxu,Ion Channels,132114.57,3.1
+3cmr,Phosphatases,27135.66,2.05
+2qu2,Aspartic Proteases,15845.57,2.6
+6nr3,Ion Channels,168130.03,3.4
+4y7a,Serine Proteases,14225.60,1.99
+2xq9,Ion Channels,63436.19,3.2
+4wu2,Phosphatases,28067.42,2.15
+1d3q,Serine Proteases,13163.33,2.9
+3i7g,Metalloproteases,16307.35,1.95
+3kec,Metalloproteases,16977.48,2.05
+1pa9,Phosphatases,12188.25,2.0
+3r1g,Aspartic Proteases,33659.15,2.8
+4azy,Aspartic Proteases,16179.14,1.79
+8tu5,Tyr Kinases,12183.82,2.1
+6upe,Phosphatases,22246.20,2.24
+1ca8,Serine Proteases,12118.36,2.1
+4h49,Metalloproteases,30619.22,2.16
+3p4u,Cysteine Proteases,19054.50,1.9
+3ocx,Phosphatases,12738.69,1.9
+3u8t,Serine Proteases,12535.10,1.86
+1pty,Phosphatases,13263.03,1.85
+6iur,Phosphatases,110199.78,3.33
+4amg,Glycosyltransferases,31325.67,2.59
+2ql7,Cysteine Proteases,18511.09,2.4
+3um7,Ion Channels,25917.94,3.31
+4y71,Serine Proteases,13852.98,1.8
+5uab,Tyr Kinases,14159.14,1.9
+5v4s,Ion Channels,81908.96,4.2
+3t9q,Phosphatases,20838.01,2.76
+7d2f,Phosphatases,28333.00,2.6
+6coy,Ion Channels,34943.98,3.36
+4e7n,Serine Proteases,10269.41,1.75
+6rot,Serine Proteases,12776.64,1.34
+2d2v,Phosphatases,10965.70,2.5
+3it0,Phosphatases,25586.79,1.69
+1t70,Phosphatases,71902.54,2.3
+5zz4,Tyr Kinases,72207.31,2.9
+4r23,Glycosyltransferases,33729.17,1.84
+5rwc,Phosphatases,20475.25,1.4
+1agw,Tyr Kinases,27082.10,2.4
+6bjl,Glycosyltransferases,13686.58,1.69
+5rwl,Phosphatases,20422.55,1.37
+2hi0,Phosphatases,21128.29,1.51
+4xdl,Ion Channels,47169.29,3.5
+2zbm,Phosphatases,13836.74,1.5
+2nmm,Phosphatases,17372.18,2.7
+5kad,Phosphatases,24872.61,1.9
+4f8h,Ion Channels,62428.58,2.99
+6ihw,Phosphatases,12026.83,1.55
+6hy9,Ion Channels,62582.11,2.95
+5rwj,Phosphatases,20349.18,1.26
+2fzz,Serine Proteases,13614.99,2.2
+4kk3,Phosphatases,8326.84,1.7
+7xn4,Cysteine Proteases,38342.45,3.35
+3vxf,Serine Proteases,13111.72,1.6
+1ymq,Phosphatases,11306.40,1.9
+2m0k,Ion Channels,10054.15,
+7f7a,Phosphatases,12194.92,2.7
+2z8c,Tyr Kinases,14937.78,3.25
+7aam,Phosphatases,29836.25,2.15
+5bpy,Tyr Kinases,23448.91,2.31
+8gz4,Phosphatases,9137.50,1.8
+1hai,Serine Proteases,12658.40,2.4
+5mtk,Cysteine Proteases,13427.94,2.53
+1i4e,Cysteine Proteases,26591.70,3.0
+2bq6,Serine Proteases,13320.15,3.0
+6eo8,Serine Proteases,12888.78,1.94
+1iqn,Serine Proteases,13231.36,2.6
+1ayb,Phosphatases,5886.26,3.0
+6d67,Phosphatases,26163.39,2.55
+2wje,Phosphatases,11317.11,1.9
+3e7a,Phosphatases,23171.00,1.63
+8jug,Metalloproteases,8254.77,1.3
+2xcu,Glycosyltransferases,61579.40,2.42
+2ia5,Phosphatases,164127.30,2.9
+1t6d,Phosphatases,29161.76,2.15
+1mh0,Serine Proteases,24072.13,2.8
+5jns,Phosphatases,7715.90,1.8
+6olv,Phosphatases,13095.03,2.1
+6f2x,Tyr Kinases,12018.31,
+4wzv,Metalloproteases,15674.84,1.65
+2i6j,Phosphatases,7919.71,1.66
+5djj,Phosphatases,12492.65,1.5
+1jou,Serine Proteases,40178.04,1.8
+1rhq,Cysteine Proteases,18488.39,3.0
+9grn,Phosphatases,90386.04,3.4
+2r8z,Phosphatases,99325.04,2.1
+3dng,Metalloproteases,15822.12,2.0
+6m1x,Phosphatases,33280.28,2.48
+4htc,Serine Proteases,15356.49,2.3
+1mts,Serine Proteases,9181.16,1.9
+3dux,Serine Proteases,12474.23,1.6
+2d1g,Phosphatases,31630.24,1.75
+1mue,Serine Proteases,12513.38,2.0
+1xvi,Phosphatases,23925.27,2.26
+5rxb,Phosphatases,20488.63,1.58
+1c88,Phosphatases,13078.14,1.8
+4kjg,Phosphatases,29683.98,2.38
+2fea,Phosphatases,21668.91,2.0
+2k2b,Ion Channels,7226.05,
+3jz2,Serine Proteases,12704.45,2.4
+4dvf,Aspartic Proteases,31865.90,1.8
+1ypk,Serine Proteases,13238.29,1.78
+1k0o,Ion Channels,22970.45,1.75
+6kmv,Cysteine Proteases,291029.58,3.35
+4omm,Tyr Kinases,5619.42,1.9
+4ke1,Aspartic Proteases,15641.40,1.91
+5z3m,Phosphatases,15410.98,2.6
+6ssi,Ion Channels,88274.78,2.59
+4amb,Glycosyltransferases,31075.09,2.62
+4kc4,Glycosyltransferases,14322.42,1.6
+6iah,Phosphatases,12218.81,1.75
+5q06,Phosphatases,45403.84,2.4
+3p45,Cysteine Proteases,62211.01,2.53
+1fm1,Metalloproteases,8944.34,
+4jj8,Cysteine Proteases,18617.60,2.94
+3c4w,GPCRs,48979.72,2.7
+5ui0,Tyr Kinases,27629.89,2.05
+6zgd,Ion Channels,67561.01,4.1
+3it1,Phosphatases,26068.83,1.69
+4ij6,Phosphatases,17458.33,1.8
+2yd4,Phosphatases,11291.31,1.65
+5u6p,Ion Channels,92362.93,3.51
+6zgj,Ion Channels,66900.08,3.4
+6bji,Glycosyltransferases,13772.94,1.54
+6x8k,Cysteine Proteases,21204.61,2.17
+2h51,Cysteine Proteases,12998.89,2.1
+1rhj,Cysteine Proteases,18122.07,2.2
+2zhf,Serine Proteases,12579.75,1.98
+6jsf,Aspartic Proteases,16096.04,2.3
+2jfr,Phosphatases,10412.85,0.83
+1rpm,Phosphatases,24171.10,2.3
+3da3,Phosphatases,23551.61,2.5
+8gc7,Tyr Kinases,13091.48,1.9
+2bgd,Phosphatases,13308.84,2.4
+1a3b,Serine Proteases,12997.87,1.8
+7n0z,Phosphatases,33207.35,2.19
+1dwc,Serine Proteases,13625.20,3.0
+2uuf,Serine Proteases,13381.90,1.26
+6t4a,Serine Proteases,12795.78,1.31
+8u2d,Tyr Kinases,13225.12,1.95
+1fpc,Serine Proteases,12625.45,2.3
+1eub,Metalloproteases,9900.40,
+6ymp,Serine Proteases,12903.84,1.42
+6cpv,Ion Channels,13109.79,2.5
+2p2c,Cysteine Proteases,105305.65,3.24
+3t2d,Phosphatases,17892.67,1.36
+2pw8,Serine Proteases,15175.91,1.84
+2h02,Phosphatases,25335.03,2.3
+4i9e,Phosphatases,35726.15,2.4
+6z48,Serine Proteases,48525.50,2.27
+5rws,Phosphatases,20401.23,1.28
+2xbx,Serine Proteases,13354.65,1.85
+1ook,Serine Proteases,26500.39,2.3
+2p16,Serine Proteases,13727.87,2.3
+8u7w,Phosphatases,44320.38,2.05
+1fxy,Serine Proteases,10800.87,2.15
+1cvi,Phosphatases,55661.78,3.2
+6bmw,Phosphatases,42542.52,2.1
+8kme,Serine Proteases,12693.66,2.1
+1t48,Phosphatases,14685.92,2.2
+1ajd,Phosphatases,28296.47,2.5
+8wvd,Glycosyltransferases,20213.64,1.66
+2qfr,Phosphatases,29934.41,2.4
+1c9f,Cysteine Proteases,6138.53,
+5tfu,Aspartic Proteases,79237.58,2.75
+1f1j,Cysteine Proteases,17609.16,2.35
+2xq8,Ion Channels,64551.95,3.6
+3tk5,Serine Proteases,13079.77,2.2
+3qcj,Phosphatases,13598.96,2.26
+2p94,Serine Proteases,13657.33,1.8
+3ocy,Phosphatases,12844.74,1.4
+5okp,Phosphatases,18899.73,1.85
+2rf6,Phosphatases,9304.23,1.95
+7wr1,Cysteine Proteases,34328.48,2.13
+4gfg,Tyr Kinases,14061.76,2.35
+6pdq,Cysteine Proteases,17340.37,1.83
+2jjd,Phosphatases,129215.88,3.2
+4wu3,Phosphatases,102110.49,2.2
+3n01,Phosphatases,8510.71,1.3
+2r8y,Phosphatases,97386.39,1.85
+4r1g,Glycosyltransferases,33770.34,1.92
+2y80,Serine Proteases,13652.77,1.9
+2vsw,Phosphatases,13151.19,2.2
+8exi,Phosphatases,13064.46,1.6
+4fzr,Glycosyltransferases,16280.15,2.4
+4rhw,Cysteine Proteases,24860.04,2.1
+8qz4,Ion Channels,32666.00,3.2
+2i6m,Phosphatases,7921.47,1.9
+6mix,Ion Channels,251409.34,3.6
+2k7a,Tyr Kinases,9621.16,
+5jqn,Serine Proteases,11187.72,1.19
+1iqf,Serine Proteases,13099.59,3.2
+1aht,Serine Proteases,12827.67,1.6
+6mdc,Phosphatases,43255.21,2.14
+5rwi,Phosphatases,20409.52,1.29
+8e6u,Ion Channels,251923.69,3.2
+3nuq,Phosphatases,13209.12,1.7
+3fq3,Phosphatases,79039.94,1.9
+7sdd,Phosphatases,12940.54,1.85
+8uwb,Phosphatases,110158.21,3.15
+5rx6,Phosphatases,20387.25,1.45
+3h66,Phosphatases,25261.81,2.59
+8sw6,Phosphatases,24889.00,1.76
+3m37,Serine Proteases,13738.50,1.9
+1pph,Serine Proteases,9150.46,1.9
+5tkd,Tyr Kinases,21697.06,1.92
+3wbh,Phosphatases,32738.53,2.1
+2uwl,Serine Proteases,13665.19,1.9
+2bvs,Serine Proteases,13401.70,1.4
+3ujl,Phosphatases,20168.12,2.5
+3wms,Glycosyltransferases,23214.60,2.3
+1nfu,Serine Proteases,13718.44,2.05
+1qhr,Serine Proteases,14095.91,2.2
+2f46,Phosphatases,14402.42,1.41
+3hvq,Phosphatases,33830.31,2.2
+1sgi,Serine Proteases,23873.45,2.3
+1evb,Phosphatases,625.34,
+8u53,Ion Channels,51775.06,2.6
+1r81,Glycosyltransferases,14024.00,1.75
+8tqs,Serine Proteases,16558.27,2.21
+6rv3,Ion Channels,48521.54,2.9
+8fhu,Phosphatases,35371.51,1.8
+6zv7,Serine Proteases,13390.64,1.94
+1cwd,Tyr Kinases,6525.00,2.25
+4y79,Serine Proteases,13893.03,2.1
+3pcx,Cysteine Proteases,12836.19,1.5
+7usq,Cysteine Proteases,18383.05,2.71
+2zd9,Ion Channels,46023.01,4.0
+6hm7,Tyr Kinases,13665.15,1.64
+5q00,Phosphatases,89710.13,2.6
+1luf,Tyr Kinases,13371.93,2.05
+6wny,Aspartic Proteases,16286.04,1.86
+5rwx,Phosphatases,20267.66,1.34
+5ry0,Phosphatases,20327.82,1.98
+1y5b,Serine Proteases,9188.04,1.65
+5i3x,Aspartic Proteases,16551.88,1.85
+4zvq,Cysteine Proteases,18745.33,2.5
+4il9,Ion Channels,62475.13,2.83
+1t46,Tyr Kinases,14463.64,1.6
+5th9,Metalloproteases,71201.90,3.0
+2m17,Phosphatases,5549.66,
+4quj,Cysteine Proteases,12172.94,1.5
+3nb6,Glycosyltransferases,10229.90,2.7
+3uqw,Aspartic Proteases,16865.39,2.2
+4y92,Tyr Kinases,5117.37,2.1
+1oev,Phosphatases,13237.63,2.2
+3q3q,Phosphatases,20370.69,1.95
+3v6l,Cysteine Proteases,19166.34,2.2
+8s9f,Tyr Kinases,25045.15,2.6
+3d6f,Cysteine Proteases,13631.92,1.9
+6x8l,Cysteine Proteases,17888.00,2.45
+3uqr,Aspartic Proteases,44375.46,3.06
+6hz3,Ion Channels,64940.11,3.15
+2i6o,Phosphatases,8184.70,1.9
+1avr,Ion Channels,15056.85,2.3
+2zfp,Serine Proteases,12817.08,2.25
+3u8r,Serine Proteases,12664.35,1.47
+1d5g,Phosphatases,7649.50,
+4fyf,Phosphatases,31579.92,2.42
+6zuw,Serine Proteases,13397.62,2.0
+3zvn,Phosphatases,20590.74,2.15
+1ai8,Serine Proteases,13021.03,1.85
+3d8k,Phosphatases,63192.36,2.71
+6gyn,Ion Channels,92165.68,3.4
+2xq4,Ion Channels,64417.47,3.6
+6pg0,Phosphatases,13335.75,2.1
+8doq,Phosphatases,17872.91,1.65
+4joo,Aspartic Proteases,17992.10,1.8
+2m3v,Phosphatases,11586.91,
+2ocv,Serine Proteases,12334.66,2.2
+4ofz,Phosphatases,18468.53,3.0
+7n5d,Ion Channels,136497.05,2.8
+1ztq,Metalloproteases,29090.22,2.0
+2xzt,Cysteine Proteases,28804.25,2.7
+7zko,Serine Proteases,15233.31,2.5
+6tvn,Tyr Kinases,34247.30,2.31
+5rxv,Phosphatases,20455.62,1.5
+3nmv,Phosphatases,20520.12,2.1
+5rw2,Phosphatases,20274.06,1.22
+6omu,Tyr Kinases,13837.54,1.41
+5sxv,Ion Channels,132020.65,3.4
+2hnp,Phosphatases,12583.47,2.85
+3ido,Phosphatases,14972.81,2.2
+1nfx,Serine Proteases,13996.21,2.15
+1vp6,Ion Channels,13234.88,1.7
+4aot,Ser/Thr Kinases,27525.34,2.33
+4fu4,Metalloproteases,37617.03,2.85
+3dpk,Tyr Kinases,13760.39,1.95
+4ap9,Phosphatases,37849.21,1.78
+5rxl,Phosphatases,20410.54,1.49
+6hyr,Ion Channels,63540.06,3.5
+2cfr,Phosphatases,13553.28,2.4
+4ilw,Metalloproteases,31067.66,2.1
+8e6r,Ion Channels,258483.15,5.6
+3emu,Phosphatases,8059.66,2.3
+8tk4,Phosphatases,8628.73,1.8
+1i4o,Cysteine Proteases,19191.78,2.4
+2e2d,Metalloproteases,16340.11,2.0
+7ery,Glycosyltransferases,17080.72,1.77
+5ry1,Phosphatases,20222.00,1.52
+4fz1,Ion Channels,22870.73,3.36
+4ntx,Ion Channels,28978.78,2.27
+5ryi,Phosphatases,20295.23,1.45
+6rv2,Ion Channels,47825.09,3.0
+6hy5,Ion Channels,63714.78,2.58
+5ehp,Phosphatases,43476.40,1.85
+2cnk,Cysteine Proteases,12988.18,1.75
+2auh,Tyr Kinases,15934.71,3.2
+2h5i,Cysteine Proteases,12454.71,1.69
+1wax,Phosphatases,13331.09,2.2
+3nr2,Cysteine Proteases,18048.85,2.9
+6hm6,Tyr Kinases,13149.75,2.1
+1biw,Metalloproteases,16795.32,2.5
+3q3i,Glycosyltransferases,48757.37,2.45
+7ltz,Tyr Kinases,12975.58,1.53
+3wv2,Metalloproteases,16218.79,2.3
+8ddt,Ion Channels,187509.26,3.1
+5mk3,Phosphatases,62074.12,2.0
+6bwm,Ion Channels,57774.35,3.9
+4dsy,Phosphatases,59647.04,2.3
+3l8g,Phosphatases,9215.34,2.18
+5lpd,Serine Proteases,12966.83,1.5
+4nty,Ion Channels,28875.60,2.65
+3pmh,Serine Proteases,26712.97,3.2
+6t56,Serine Proteases,12788.52,1.31
+8exj,Phosphatases,13523.82,2.3
+3kqb,Serine Proteases,13457.51,2.25
+2f9z,Phosphatases,31052.41,2.4
+4zvp,Cysteine Proteases,18791.35,2.5
+4eha,Cysteine Proteases,17958.25,1.7
+2zjm,Aspartic Proteases,16581.25,1.9
+5kac,Phosphatases,12685.91,1.9
+6drj,Ion Channels,251829.55,3.3
+8hcy,Glycosyltransferases,93976.19,2.64
+2oy2,Metalloproteases,15575.95,1.5
+2j95,Serine Proteases,14108.86,2.01
+5ibr,Cysteine Proteases,18074.23,1.74
+1cxv,Metalloproteases,15127.21,2.0
+8jjp,GPCRs,51286.70,2.9
+3i36,Phosphatases,12493.81,1.84
+4r6v,Tyr Kinases,13939.01,2.35
+2qlj,Cysteine Proteases,18523.52,2.6
+3l8v,Tyr Kinases,15464.52,2.4
+3khf,Ser/Thr Kinases,9472.96,1.2
+5rwh,Phosphatases,20297.86,1.56
+1v3a,Phosphatases,10376.29,
+2qu3,Aspartic Proteases,15825.02,2.0
+6md7,Phosphatases,44709.03,1.96
+2hc1,Phosphatases,14005.47,1.3
+3qce,Phosphatases,26046.92,2.1
+5i9b,Cysteine Proteases,12049.10,1.8
+1ed8,Phosphatases,27971.54,1.75
+5k0h,Serine Proteases,13899.24,2.2
+6hzw,Ion Channels,63012.70,2.22
+2gsf,Tyr Kinases,13826.26,1.77
+3zxh,Metalloproteases,16555.23,1.3
+6cgt,Glycosyltransferases,23169.73,2.6
+1z8j,Serine Proteases,12928.00,2.0
+8thp,Phosphatases,39983.31,2.6
+3v2w,GPCRs,22129.01,3.35
+3lsv,Ion Channels,62024.00,3.15
+4rax,Ion Channels,11579.17,1.45
+6wro,Phosphatases,15333.80,3.0
+5y5u,Tyr Kinases,25021.15,2.14
+6ssp,Ion Channels,133291.32,3.25
+6hyy,Phosphatases,21652.99,1.57
+3qf9,Ser/Thr Kinases,13334.69,2.2
+2pv9,Serine Proteases,14871.66,3.5
+8brn,Phosphatases,60615.70,2.0
+2i6i,Phosphatases,7924.68,2.15
+2cne,Phosphatases,13356.58,1.8
+5u1w,Ion Channels,18128.62,3.5
+2c8y,Serine Proteases,13255.15,2.2
+5a43,Ion Channels,20051.04,2.58
+3cc6,Tyr Kinases,13948.48,1.6
+6hk0,Ion Channels,131676.41,3.45
+6dno,Phosphatases,13503.63,1.45
+1k1e,Phosphatases,69898.39,1.67
+7bov,Glycosyltransferases,19047.38,2.29
+4b2a,Serine Proteases,23852.22,1.89
+5mu5,Glycosyltransferases,28377.09,2.3
+6bgs,Cysteine Proteases,12652.45,1.6
+5rxr,Phosphatases,20373.57,1.4
+6p61,Glycosyltransferases,33476.23,1.95
+3sha,Serine Proteases,13063.50,1.52
+4r3v,Metalloproteases,14856.45,2.01
+6md9,Phosphatases,42227.00,2.12
+3rlw,Serine Proteases,13281.36,1.69
+3ocw,Phosphatases,12867.15,1.85
+3exo,Aspartic Proteases,16189.84,2.1
+1r7u,Glycosyltransferases,13776.90,1.61
+3h61,Phosphatases,25648.69,1.45
+4otf,Tyr Kinases,13328.26,1.95
+1khk,Phosphatases,26549.54,2.5
+1rkq,Phosphatases,22754.35,1.4
+1dm4,Serine Proteases,12265.44,2.5
+4g61,Phosphatases,21953.15,2.3
+1iqg,Serine Proteases,13107.20,2.6
+3fxm,Phosphatases,17121.88,2.5
+4rrn,Aspartic Proteases,17944.54,1.8
+1hdt,Serine Proteases,14172.97,2.6
+1dtu,Glycosyltransferases,22994.08,2.4
+4b2c,Serine Proteases,24472.46,1.43
+1rjg,Phosphatases,13598.61,2.61
+7cfs,Ion Channels,57864.68,3.56
+3mk0,Phosphatases,19778.51,1.9
+3uzs,GPCRs,56180.31,4.52
+2oxw,Metalloproteases,8204.71,1.15
+7s7l,Metalloproteases,15521.38,2.34
+2p73,Glycosyltransferases,9688.36,2.3
+1w1f,Tyr Kinases,4382.77,
+4fz7,Tyr Kinases,13159.13,1.75
+5ie1,Aspartic Proteases,16242.40,2.3
+3rof,Phosphatases,8420.63,1.03
+6mgw,Ion Channels,60056.83,3.5
+3rm2,Serine Proteases,13056.13,1.23
+1r82,Glycosyltransferases,13808.40,1.55
+4uff,Serine Proteases,12879.77,1.55
+5rxt,Phosphatases,20359.86,1.63
+2f71,Phosphatases,13361.25,1.55
+4i7y,Serine Proteases,15564.31,2.4
+2p72,Glycosyltransferases,19031.47,2.0
+3s4e,Phosphatases,7241.70,1.26
+8vxh,Glycosyltransferases,58375.93,2.79
+7zgg,Phosphatases,33463.82,1.66
+5got,Phosphatases,8068.09,1.9
+7jwp,Cysteine Proteases,141509.20,3.0
+2jfs,Phosphatases,10400.95,1.45
+4rtu,Tyr Kinases,5672.71,2.45
+4jbf,Glycosyltransferases,33593.82,1.92
+4ehh,Cysteine Proteases,11194.36,1.78
+6w06,Tyr Kinases,12768.89,1.55
+1v3x,Serine Proteases,12553.60,2.2
+8pq7,Phosphatases,31251.61,2.1
+4bti,Serine Proteases,26054.67,2.3
+1c4v,Serine Proteases,12584.71,2.1
+1a17,Phosphatases,10624.51,2.45
+4z9a,Phosphatases,7788.94,2.1
+5nkq,Ion Channels,36073.34,2.17
+9fqn,Phosphatases,12430.65,2.11
+1ppb,Serine Proteases,13605.97,1.92
+2h03,Phosphatases,13719.22,1.65
+7mod,Phosphatases,14545.68,1.65
+6nr2,Ion Channels,172296.29,4.0
+6byf,Phosphatases,61596.05,2.35
+1hap,Serine Proteases,14262.45,2.8
+4y76,Serine Proteases,14120.02,2.0
+1tmb,Serine Proteases,12797.43,2.3
+1lyv,Phosphatases,12530.38,1.36
+1o0d,Serine Proteases,13123.07,2.44
+7f17,Phosphatases,29504.13,2.8
+3l0b,Phosphatases,17839.40,2.35
+5ryf,Phosphatases,20302.63,1.49
+6bjj,Glycosyltransferases,13790.42,1.45
+3r5k,Cysteine Proteases,19602.73,2.86
+2qlb,Cysteine Proteases,18632.54,2.25
+1g2m,Serine Proteases,13875.64,3.02
+7dcz,Aspartic Proteases,16562.37,2.3
+4h1q,Metalloproteases,16247.57,1.59
+3ue4,Tyr Kinases,26052.73,2.42
+7d8i,Phosphatases,9231.17,1.62
+1b5g,Serine Proteases,12893.15,2.07
+7l4i,Phosphatases,33821.74,2.58
+2idn,Serine Proteases,2811.97,
+3lc6,Phosphatases,50247.51,3.1
+1wbg,Serine Proteases,13162.65,2.2
+3d6h,Cysteine Proteases,13203.88,2.0
+7u4o,Phosphatases,40711.16,2.3
+6xft,Phosphatases,12193.00,1.78
+4rcd,Aspartic Proteases,15955.45,1.9
+4jod,Phosphatases,16955.45,2.21
+8s93,Tyr Kinases,21000.29,2.1
+2nyl,Phosphatases,113585.31,3.8
+1wu1,Serine Proteases,12662.71,2.3
+1fjs,Serine Proteases,13089.35,1.92
+5cu7,Phosphatases,33972.98,1.73
+2i7b,Glycosyltransferases,13537.35,1.99
+6coz,Ion Channels,18388.06,3.36
+2oz5,Phosphatases,23214.37,2.0
+3icf,Phosphatases,25312.57,2.3
+2xbw,Serine Proteases,13728.89,1.72
+6cl2,Cysteine Proteases,17875.45,2.35
+1yfo,Phosphatases,24729.39,2.25
+6mdd,Phosphatases,43136.48,2.05
+2i42,Phosphatases,12407.66,2.2
+8uaq,GPCRs,25289.68,2.8
+1nrp,Serine Proteases,13775.56,3.0
+7wzs,Cysteine Proteases,33030.03,3.6
+2ooq,Phosphatases,24472.65,1.8
+2w5w,Phosphatases,23895.17,1.79
+1ely,Phosphatases,27397.80,2.8
+3uq4,Ion Channels,131927.06,3.5
+7wr4,Cysteine Proteases,38243.15,2.75
+6bgr,Cysteine Proteases,11633.74,2.16
+7ntu,Serine Proteases,37033.04,3.1
+7k6y,Phosphatases,22560.94,1.75
+6w30,Phosphatases,13423.40,2.1
+3qc1,Phosphatases,12342.81,2.35
+2b1r,Phosphatases,11021.76,2.2
+1rwx,Cysteine Proteases,14397.53,1.85
+7wr6,Cysteine Proteases,20488.32,1.96
+1gwz,Phosphatases,14531.49,2.5
+3l8e,Phosphatases,16380.28,1.64
+3utu,Serine Proteases,12580.78,1.55
+8qob,Phosphatases,12433.66,2.74
+2xbv,Serine Proteases,13027.73,1.66
+4qua,Cysteine Proteases,11824.73,1.89
+2vvc,Serine Proteases,26443.13,1.95
+2a45,Serine Proteases,43353.68,3.65
+6jsn,Aspartic Proteases,16011.37,2.6
+5boy,Metalloproteases,16529.80,2.03
+4zvo,Cysteine Proteases,18825.54,2.85
+2cxg,Glycosyltransferases,23231.36,2.5
+2ql5,Cysteine Proteases,18601.80,2.34
+5zes,Glycosyltransferases,29481.23,2.03
+1zgi,Serine Proteases,12798.61,2.2
+5iab,Cysteine Proteases,18411.73,1.79
+1u54,Tyr Kinases,25448.24,2.8
+1lz7,Glycosyltransferases,13997.83,1.65
+1zzw,Phosphatases,13904.61,1.6
+6y2w,Phosphatases,7903.35,1.77
+4g0d,Metalloproteases,70250.65,2.54
+5i11,Tyr Kinases,5232.55,1.95
+2uwo,Serine Proteases,13530.55,1.75
+7yiv,Phosphatases,122438.79,3.18
+4frj,Aspartic Proteases,16047.44,1.95
+3ce3,Tyr Kinases,16784.30,2.4
+3mbo,Glycosyltransferases,112312.49,3.31
+1rje,Phosphatases,42705.96,2.0
+4zop,Lipid Kinases,53984.77,2.62
+7d2v,Aspartic Proteases,16258.74,2.1
+1nfw,Serine Proteases,13597.03,2.1
+7q7c,Ser/Thr Kinases,13667.42,2.85
+1ew8,Phosphatases,27803.43,2.2
+5rwv,Phosphatases,20469.03,1.25
+5q03,Phosphatases,93333.86,2.31
+1hag,Serine Proteases,14438.58,2.0
+6hyw,Ion Channels,62289.76,2.8
+9gro,Phosphatases,43522.31,2.36
+2o2x,Phosphatases,9713.57,1.5
+5xjv,Phosphatases,15553.34,1.69
+5uad,Tyr Kinases,14571.74,2.25
+5rxf,Phosphatases,20130.82,1.26
+6vj7,Phosphatases,59028.20,2.6
+1csy,Tyr Kinases,7321.88,
+1cgv,Glycosyltransferases,22980.41,2.5
+4dw1,Ion Channels,18223.03,2.8
+6nru,Phosphatases,104014.12,2.51
+2pgq,Serine Proteases,13770.22,1.8
+6gkg,Cysteine Proteases,83613.43,2.85
+4csv,Tyr Kinases,12614.14,2.05
+4jb3,Phosphatases,10208.06,1.5
+5hpe,Phosphatases,13574.60,2.27
+4trw,Aspartic Proteases,46634.37,2.85
+2b0c,Phosphatases,9766.85,2.0
+2nv5,Phosphatases,37592.64,2.0
+8juf,Metalloproteases,8667.94,1.39
+4pv0,Tyr Kinases,13814.69,2.0
+1bak,GPCRs,9116.15,
+2yd6,Phosphatases,10645.41,1.35
+2yd3,Phosphatases,10736.87,2.3
+3j5p,Ion Channels,106729.05,3.28
+6deu,Cysteine Proteases,22918.82,2.8
+3p96,Phosphatases,18200.79,2.05
+1zs9,Phosphatases,12889.28,1.7
+1hgt,Serine Proteases,12772.24,2.2
+4umf,Phosphatases,26076.34,2.28
+7mi0,Glycosyltransferases,16740.57,2.9
+3sf0,Phosphatases,12799.24,1.35
+4ehd,Cysteine Proteases,11711.89,1.58
+6gyo,Ion Channels,91839.87,3.4
+2zo3,Serine Proteases,12547.64,1.7
+1jp4,Phosphatases,12527.35,1.69
+4e06,Serine Proteases,13078.95,3.2
+5aes,Phosphatases,24693.23,2.75
+2yd2,Phosphatases,10691.95,2.55
+2xzd,Cysteine Proteases,28430.30,2.1
+4ivt,Aspartic Proteases,16049.46,1.6
+8k5u,Glycosyltransferases,27274.13,2.15
+1hah,Serine Proteases,13240.12,2.3
+6v64,Serine Proteases,13891.74,2.29
+3gjq,Cysteine Proteases,18566.06,2.6
+1shq,Phosphatases,30754.28,2.0
+2f6w,Phosphatases,13393.22,2.2
+3biu,Serine Proteases,13066.64,2.3
+3ee0,Serine Proteases,12866.01,2.75
+4y2e,Phosphatases,23561.08,1.67
+4hva,Cysteine Proteases,19473.31,2.07
+3d68,Serine Proteases,46127.70,2.8
+5iak,Cysteine Proteases,11894.47,1.82
+5rwe,Phosphatases,20407.05,1.34
+5heo,Ion Channels,131163.54,3.3
+4xxs,Aspartic Proteases,16106.76,1.86
+1i3s,Cysteine Proteases,38953.47,2.7
+7a0v,Phosphatases,52774.66,2.3
+1sm2,Tyr Kinases,24645.36,2.3
+5af9,Serine Proteases,12747.42,1.18
+1knx,Phosphatases,74032.45,2.5
+1a0h,Serine Proteases,35158.89,3.2
+1snu,Tyr Kinases,24455.78,2.5
+6hyv,Ion Channels,62814.75,2.8
+2j2u,Serine Proteases,13619.26,1.9
+3n8i,Phosphatases,8068.11,1.5
+5e0o,Phosphatases,18643.10,3.0
+4dw0,Ion Channels,18386.17,2.9
+1gjo,Tyr Kinases,13873.61,2.4
+7zzv,Phosphatases,3119.72,
+3p70,Serine Proteases,50532.48,2.55
+1twx,Serine Proteases,13127.46,2.4
+1rhu,Cysteine Proteases,11240.22,2.51
+1x6c,Phosphatases,7081.44,
+4h1o,Phosphatases,22913.42,2.2
+2b1q,Phosphatases,11255.86,2.2
+9fqc,Phosphatases,12607.46,2.35
+2wgp,Phosphatases,16231.72,1.88
+8tk3,Phosphatases,8604.28,2.0
+4q20,Tyr Kinases,22667.59,2.5
+1tq0,Serine Proteases,25468.92,2.8
+8jud,Metalloproteases,8628.75,1.5
+5rxq,Phosphatases,20332.67,1.65
+9em1,Phosphatases,13691.17,1.5
+4yes,Serine Proteases,13007.21,1.5
+4b00,Aspartic Proteases,16300.12,1.83
+6fjt,Serine Proteases,12866.03,1.27
+5k25,Phosphatases,15648.56,3.05
+1jh1,Metalloproteases,7889.25,2.7
+3ocz,Phosphatases,12867.25,1.35
+3qcc,Phosphatases,25098.39,2.1
+1wt1,Glycosyltransferases,13711.44,1.55
+5fna,Cysteine Proteases,38363.55,4.8
+2cft,Phosphatases,13405.71,1.8
+3cs7,Serine Proteases,13856.54,2.2
+7qow,Phosphatases,35155.15,1.2
+6mgv,Ion Channels,58914.19,3.1
+9l3y,GPCRs,43709.72,3.6
+8k4p,GPCRs,44170.98,2.81
+5tft,Aspartic Proteases,80517.55,2.71
+2uuj,Serine Proteases,13246.05,1.32
+7d5a,Aspartic Proteases,15447.11,2.2
+3ujk,Phosphatases,12989.33,1.9
+5pzz,Phosphatases,89346.65,2.5
+1eoj,Serine Proteases,12768.37,2.1
+3v0g,Phosphatases,59188.84,1.6
+1i3o,Cysteine Proteases,29717.79,2.7
+5zer,Glycosyltransferases,28971.06,2.39
+4qub,Cysteine Proteases,11858.16,1.69
+6v8y,Ion Channels,10205.74,1.53
+2k79,Tyr Kinases,9842.78,
+6bpq,Ion Channels,166392.15,4.1
+3oy7,Glycosyltransferases,32962.89,2.73
+3h63,Phosphatases,25453.51,1.3
+1aww,Tyr Kinases,5124.91,
+2p83,Aspartic Proteases,44523.01,2.5
+7zkl,Serine Proteases,14804.82,3.18
+3l38,Aspartic Proteases,15565.79,2.1
+8ixp,Glycosyltransferases,61070.00,2.45
+2zjj,Aspartic Proteases,16042.34,2.2
+6oce,Ion Channels,82691.72,4.9
+5ygy,Aspartic Proteases,16157.13,2.3
+1p8v,Serine Proteases,25390.57,2.6
+3hk6,Serine Proteases,25469.34,3.2
+5djh,Phosphatases,11791.48,1.45
+3i7i,Metalloproteases,15927.12,2.21
+9m7m,Phosphatases,10297.92,1.26
+3uqx,Aspartic Proteases,15998.98,1.7
+3lxq,Phosphatases,30988.01,1.95
+3rmn,Serine Proteases,13127.64,1.78
+6sad,Cysteine Proteases,22866.87,2.75
+6fk4,Phosphatases,13031.82,2.3
+2r8x,Phosphatases,98284.31,2.6
+1d4p,Serine Proteases,13307.78,2.07
+3esr,Phosphatases,8611.53,1.95
+2ivv,Tyr Kinases,13332.18,2.25
+4bkm,Phosphatases,50174.59,2.65
+7rct,Phosphatases,45668.36,1.8
+1evc,Phosphatases,259.54,
+3jpv,Ser/Thr Kinases,13460.70,2.35
+6nzp,Tyr Kinases,23247.95,2.35
+3cap,GPCRs,30979.19,2.9
+2ivs,Tyr Kinases,23334.79,2.0
+2wjf,Phosphatases,11343.32,2.22
+3inh,Aspartic Proteases,15932.84,1.8
+5mk2,Phosphatases,31419.03,1.7
+5ka7,Phosphatases,13304.59,2.06
+3q3e,Glycosyltransferases,48664.19,2.1
+7ov3,Phosphatases,12807.67,2.0
+3dej,Cysteine Proteases,36450.51,2.6
+4g9j,Phosphatases,25620.12,3.1
+1h92,Tyr Kinases,4585.80,
+2w7r,Ser/Thr Kinases,10809.22,1.6
+4fri,Aspartic Proteases,16191.80,2.3
+7rne,Cysteine Proteases,18355.64,2.73
+6xar,Tyr Kinases,28640.26,2.5
+1etr,Serine Proteases,13539.77,2.2
+4pbw,Phosphatases,62757.48,3.05
+3deh,Cysteine Proteases,36195.10,2.5
+4km4,Phosphatases,26905.15,2.8
+8ynl,Cysteine Proteases,80513.79,3.55
+6pha,Phosphatases,13254.72,2.3
+3ffg,Serine Proteases,13816.88,1.54
+2qfp,Phosphatases,59759.38,2.2
+5do4,Serine Proteases,15631.18,1.86
+7ocq,Phosphatases,57228.63,2.9
+5vgo,Tyr Kinases,13404.71,1.62
+7k7z,GPCRs,46583.10,2.61
+6fl9,Ion Channels,63984.97,2.3
+3f68,Serine Proteases,12743.71,1.75
+3wv3,Metalloproteases,16931.28,1.6
+6w6y,Phosphatases,15105.69,1.45
+3e81,Phosphatases,25761.93,1.63
+2hhg,Phosphatases,7468.42,1.2
+4dyl,Tyr Kinases,25937.42,2.18
+3cy2,Ser/Thr Kinases,13151.07,2.01
+1ygr,Phosphatases,54351.43,2.9
+5ekp,Glycosyltransferases,55443.82,3.19
+3uu5,Ion Channels,62933.50,2.9
+1n8n,Phosphatases,11363.11,1.69
+7rn7,Cysteine Proteases,17878.96,2.4
+3p4w,Ion Channels,63126.89,3.2
+4h34,Phosphatases,22621.88,2.7
+2hv6,Phosphatases,25145.89,1.9
+1khn,Phosphatases,26767.31,2.6
+3od5,Cysteine Proteases,19365.41,1.6
+1wvi,Phosphatases,40017.95,2.3
+3lms,Serine Proteases,15435.44,2.5
+2hpa,Phosphatases,53852.89,2.9
+2i0v,Tyr Kinases,15159.30,2.8
+1ros,Metalloproteases,15358.10,2.0
+3dcp,Phosphatases,34149.56,2.1
+2poj,Metalloproteases,8476.06,
+6d3w,Phosphatases,22762.56,1.9
+1lhg,Serine Proteases,12612.29,2.25
+5ehr,Phosphatases,43013.76,1.7
+9n58,Phosphatases,40781.78,2.05
+1c4y,Serine Proteases,12879.06,2.7
+5i3m,Metalloproteases,30410.42,2.17
+2hf2,Phosphatases,25550.50,1.9
+1elx,Phosphatases,27534.97,2.6
+1s95,Phosphatases,25286.20,1.6
+1v0d,Cysteine Proteases,14090.43,2.6
+5ic4,Cysteine Proteases,35501.66,2.65
+3h67,Phosphatases,25641.87,1.65
+3vrp,Tyr Kinases,14548.30,1.52
+3d49,Serine Proteases,12722.23,1.5
+7yp4,Glycosyltransferases,47166.45,3.1
+4cgt,Glycosyltransferases,22467.46,2.6
+7m7a,Lipid Kinases,92050.99,3.2
+2cnl,Cysteine Proteases,13126.79,1.67
+5dxl,Phosphatases,15102.66,1.57
+2yd5,Phosphatases,10630.07,2.2
+1qcf,Tyr Kinases,22415.80,2.0
+1w53,Phosphatases,6032.40,1.6
+5clm,Aspartic Proteases,16244.82,2.61
+1ys9,Phosphatases,11913.85,2.56
+1v3m,Glycosyltransferases,43549.15,2.0
+7w0k,Glycosyltransferases,20045.11,2.04
+1eol,Serine Proteases,12728.47,2.1
+1c0e,Phosphatases,14650.67,2.2
+5svs,Ion Channels,18378.09,4.03
+6nv9,Aspartic Proteases,46427.72,2.13
+3q3k,Serine Proteases,12585.86,2.0
+3edq,Cysteine Proteases,18232.08,1.61
+3cm3,Phosphatases,8762.23,1.32
+2w4m,Phosphatases,12881.26,2.6
+1d2t,Phosphatases,10134.68,1.9
+4hfh,Ion Channels,63013.71,2.65
+4j51,Phosphatases,28652.31,2.3
+1v3k,Glycosyltransferases,44828.74,2.0
+4ufe,Serine Proteases,13055.87,1.59
+2c46,Phosphatases,35366.05,1.6
+4twh,Ion Channels,130460.18,3.6
+6bgk,Cysteine Proteases,18826.90,1.87
+7kio,Phosphatases,15016.82,2.4
+2cm1,Phosphatases,10394.98,2.0
+6mda,Phosphatases,42054.87,2.21
+5nny,Phosphatases,26095.43,1.7
+3f79,Phosphatases,68229.83,2.8
+3qch,Phosphatases,13397.25,2.4
+2hpq,Serine Proteases,16327.70,3.3
+2c2m,Cysteine Proteases,13012.61,1.94
+1abj,Serine Proteases,13211.71,2.4
+1sl3,Serine Proteases,12779.17,1.81
+5jnr,Phosphatases,8009.70,2.0
+6fvs,Ion Channels,62867.93,3.2
+1oo9,Metalloproteases,14434.57,
+6ihr,Phosphatases,12576.78,1.35
+1s70,Phosphatases,26864.89,2.7
+2zjl,Aspartic Proteases,14841.51,2.1
+2dxp,Phosphatases,7997.99,2.1
+2b3o,Phosphatases,23966.98,2.8
+1wzc,Phosphatases,21288.82,1.9
+3qnw,Cysteine Proteases,38024.21,2.65
+8hkm,Ion Channels,146969.41,2.95
+5ry9,Phosphatases,20136.56,1.52
+4r5n,Aspartic Proteases,17884.91,1.8
+1no6,Phosphatases,13232.27,2.4
+1lzj,Glycosyltransferases,13941.80,1.32
+5wkv,Ion Channels,54125.79,3.2
+6v4s,Ion Channels,130004.13,3.55
+7zgf,Phosphatases,33585.73,2.05
+3cy3,Ser/Thr Kinases,13309.62,2.15
+2vwo,Serine Proteases,13009.15,1.6
+5a2m,Serine Proteases,12674.65,1.4
+4pxf,GPCRs,15976.62,2.75
+2i34,Phosphatases,18971.87,2.0
+4y7b,Serine Proteases,13997.95,1.79
+1ymk,Phosphatases,9108.31,1.7
+2h4v,Phosphatases,25417.09,1.55
+6zux,Serine Proteases,13387.77,1.94
+2jkh,Serine Proteases,13787.95,1.25
+4i0s,Tyr Kinases,13236.17,1.98
+3in3,Aspartic Proteases,16005.43,2.0
+4f9f,Glycosyltransferases,102668.82,2.81
+3bdg,Phosphatases,27666.26,1.4
+5bpa,Metalloproteases,16804.48,1.79
+4h3x,Metalloproteases,15776.46,1.76
+6kmu,Cysteine Proteases,39904.03,2.1
+5hu1,Aspartic Proteases,32604.25,1.5
+6ofd,Phosphatases,59655.48,2.2
+3a5j,Phosphatases,13154.83,1.7
+9asc,Glycosyltransferases,57282.53,2.96
+5q0a,Phosphatases,46033.31,2.3
+5i6v,Phosphatases,42352.00,1.87
+4nwm,Tyr Kinases,23512.55,2.03
+8ase,Serine Proteases,25578.97,2.55
+6h8r,Phosphatases,13578.16,1.66
+4xrz,Aspartic Proteases,78736.37,2.4
+4zlz,Tyr Kinases,13408.88,2.0
+4p9o,Ion Channels,19453.14,2.89
+1de7,Serine Proteases,24692.67,2.0
+6eo7,Serine Proteases,15481.46,2.24
+7moe,Phosphatases,14318.46,1.7
+4ckj,Tyr Kinases,13960.20,1.65
+1mtw,Serine Proteases,9266.30,1.9
+6bg0,Cysteine Proteases,17857.62,2.13
+7wr0,Cysteine Proteases,11415.29,2.8
+6bfo,Cysteine Proteases,11714.68,1.54
+3vrn,Tyr Kinases,14057.15,1.64
+4ejf,Cysteine Proteases,39862.47,2.65
+7q3h,Ion Channels,131314.83,3.2
+4k8s,Aspartic Proteases,44001.70,2.39
+2p69,Phosphatases,13461.76,2.25
+5jnu,Phosphatases,14410.20,2.54
+1hbt,Serine Proteases,12856.40,2.0
+1h8d,Serine Proteases,13251.30,1.4
+4zpf,Aspartic Proteases,16091.41,1.8
+2boh,Serine Proteases,13757.27,2.2
+7xs6,Glycosyltransferases,62611.46,2.9
+3krj,Tyr Kinases,14800.39,2.1
+4pnh,Phosphatases,87694.39,2.66
+2xyg,Cysteine Proteases,12020.63,1.54
+1kav,Phosphatases,13821.78,2.35
+3fxo,Phosphatases,17185.31,2.5
+4pzx,Aspartic Proteases,18140.98,1.8
+1khj,Phosphatases,26758.05,2.3
+3bea,Tyr Kinases,15707.71,2.02
+5rwn,Phosphatases,20422.24,1.38
+3rts,Metalloproteases,8278.38,1.81
+4y6d,Serine Proteases,13640.03,1.55
+2xqa,Ion Channels,64745.68,3.7
+2hx1,Phosphatases,46903.90,2.1
+3mpr,Phosphatases,44893.69,1.9
+4tnd,GPCRs,25954.00,1.8
+3qgm,Phosphatases,43391.96,2.0
+3ma2,Metalloproteases,26072.36,2.05
+8e2m,Tyr Kinases,13649.20,1.9
+2bug,Phosphatases,7897.91,
+4wh7,Phosphatases,9646.39,1.62
+3qdz,Serine Proteases,24742.72,2.8
+8vc3,Ion Channels,49343.01,3.2
+6ave,Ion Channels,55583.65,3.7
+2g2h,Tyr Kinases,25865.56,2.0
+2vl0,Ion Channels,129882.01,3.3
+1dx5,Serine Proteases,81447.69,2.3
+5oko,Phosphatases,37834.34,1.94
+3h1p,Cysteine Proteases,18347.83,2.61
+3pma,Serine Proteases,24892.03,2.2
+1ayc,Phosphatases,5678.08,2.3
+2anm,Serine Proteases,12799.55,2.4
+8a8f,Phosphatases,15763.91,1.85
+4h30,Metalloproteases,15832.82,1.43
+8ddx,Ion Channels,211524.44,3.8
+6bqv,Ion Channels,166556.73,3.1
+4ge2,Phosphatases,25635.53,1.8
+3v0i,Phosphatases,13987.01,1.95
+2wdp,Cysteine Proteases,41357.21,1.95
+3pu9,Phosphatases,18900.08,1.55
+6clz,Metalloproteases,46914.99,
+1id5,Serine Proteases,20572.06,2.5
+2fun,Cysteine Proteases,52126.44,3.0
+1lkl,Tyr Kinases,6256.43,1.8
+5jpf,Phosphatases,12384.66,2.4
+8jbn,Phosphatases,24991.83,1.99
+5wdi,Phosphatases,24980.77,2.43
+2ovx,Metalloproteases,15156.50,2.0
+3n4w,Phosphatases,8220.26,1.45
+1zrb,Serine Proteases,12809.10,1.9
+4hq0,Cysteine Proteases,17167.45,3.0
+5djf,Phosphatases,13019.85,1.7
+1uvs,Serine Proteases,11963.85,2.8
+3uu8,Ion Channels,63048.85,3.25
+1q6m,Phosphatases,13641.03,2.2
+4rif,Glycosyltransferases,28888.41,1.85
+4fyo,Tyr Kinases,13267.63,1.4
+6nzq,Tyr Kinases,23052.90,2.11
+5ka3,Phosphatases,13191.15,2.14
+5y5t,Tyr Kinases,13517.31,1.8
+6aei,Ion Channels,118247.48,2.89
+2bqw,Serine Proteases,13383.61,2.95
+1ohe,Phosphatases,15748.79,2.2
+8tk2,Phosphatases,16327.92,1.7
+3vrr,Tyr Kinases,14399.01,2.0
+1rxd,Phosphatases,20875.35,1.9
+4lrq,Phosphatases,27774.60,1.45
+6y9h,Serine Proteases,12719.02,1.48
+2vvu,Serine Proteases,13633.52,2.3
+8jb3,Phosphatases,19898.85,1.77
+2hf7,Phosphatases,20242.88,1.6
+1rmq,Phosphatases,21442.11,2.0
+1jk7,Phosphatases,12906.03,1.9
+6f6r,Cysteine Proteases,14226.98,1.8
+1nms,Cysteine Proteases,19555.90,1.7
+6hyx,Ion Channels,64097.89,3.0
+5ry2,Phosphatases,20238.44,1.54
+2bq8,Phosphatases,12483.45,2.2
+4omo,Tyr Kinases,7272.48,1.04
+1cdg,Glycosyltransferases,22805.44,2.0
+3wv1,Metalloproteases,16859.68,1.98
+8e6t,Ion Channels,245529.25,3.7
+1nrs,Serine Proteases,12735.28,2.4
+7tm9,Phosphatases,102869.93,1.95
+8hjg,Glycosyltransferases,37166.21,1.7
+1mtu,Serine Proteases,9181.06,1.9
+6rtg,Glycosyltransferases,24205.57,1.9
+2qk5,Aspartic Proteases,33487.38,2.2
+6t26,Phosphatases,34500.42,2.27
+5i4o,Metalloproteases,30809.31,2.05
+2nn3,Cysteine Proteases,23747.39,3.0
+4lac,Phosphatases,33026.72,2.82
+830c,Metalloproteases,16035.60,1.6
+8hkf,Ion Channels,145239.49,2.66
+5i12,Metalloproteases,8113.78,1.59
+2vph,Phosphatases,10383.22,1.9
+1z8i,Serine Proteases,13091.05,2.0
+4qrc,Tyr Kinases,15471.68,1.9
+3fs5,Phosphatases,8253.58,1.9
+1ajb,Phosphatases,28037.07,2.5
+3pdz,Phosphatases,5842.94,
+1opl,Tyr Kinases,39011.34,3.42
+8f88,Phosphatases,38898.51,3.1
+1u7p,Phosphatases,28299.10,1.9
+1hzm,Phosphatases,8002.25,
+1te2,Phosphatases,19006.70,1.76
+2oyc,Phosphatases,13616.61,1.72
+6cwv,Phosphatases,13090.18,1.98
+7f7c,Phosphatases,12214.51,2.2
+7run,Tyr Kinases,26678.86,3.51
+3eq0,Serine Proteases,12318.94,1.53
+4puz,Tyr Kinases,25427.27,2.09
+3oct,Tyr Kinases,12627.44,1.95
+2ei6,Serine Proteases,12889.54,2.3
+2zjk,Aspartic Proteases,46732.12,3.0
+1mzk,Phosphatases,6507.71,
+5a40,Ion Channels,37064.21,3.6
+1d9i,Serine Proteases,12953.39,2.3
+7ju5,Tyr Kinases,25533.85,1.9
+8u2e,Tyr Kinases,13260.66,1.9
+2ow0,Metalloproteases,15075.95,2.0
+3qto,Serine Proteases,13017.23,1.52
+5i3y,Aspartic Proteases,16198.97,2.15
+6z8x,Serine Proteases,13662.93,2.53
+8ixq,Glycosyltransferases,67046.51,2.1
+2jt6,Metalloproteases,8243.32,
+6upc,Phosphatases,21959.94,2.51
+2i4h,Phosphatases,13399.25,2.15
+2q5e,Phosphatases,59654.78,2.51
+4i9c,Phosphatases,17757.39,3.1
+2b5t,Serine Proteases,44027.39,2.1
+4btt,Serine Proteases,26854.99,2.59
+2jh5,Serine Proteases,13252.62,2.5
+3gxh,Phosphatases,15105.91,1.4
+2a2x,Serine Proteases,13171.76,2.44
+456c,Metalloproteases,15631.54,2.4
+2yn2,Phosphatases,11680.85,2.05
+1omw,GPCRs,48292.22,2.5
+4xry,Aspartic Proteases,79472.91,2.5
+3pct,Phosphatases,33463.76,1.85
+1wt0,Glycosyltransferases,13768.18,1.8
+2zji,Aspartic Proteases,16188.45,2.3
+5heg,Ion Channels,66682.98,3.21
+2bxu,Serine Proteases,13171.28,2.8
+3kjn,Cysteine Proteases,11684.55,1.8
+4gwf,Phosphatases,45542.63,2.1
+3s7h,Serine Proteases,13067.36,1.9
+6rxf,Phosphatases,40967.32,2.4
+3mc1,Phosphatases,19462.34,1.93
+4rrs,Aspartic Proteases,17797.05,1.8
+2j82,Phosphatases,9721.20,1.28
+4pz9,Phosphatases,17950.11,1.94
+2xci,Glycosyltransferases,60735.97,2.0
+5svk,Ion Channels,43877.73,2.77
+1yml,Phosphatases,9247.02,1.7
+4jij,Metalloproteases,16002.10,1.7
+5rx0,Phosphatases,20388.21,1.43
+7mom,Phosphatases,14831.85,1.7
+3hyc,Phosphatases,47887.19,3.06
+1a5g,Serine Proteases,12885.76,2.06
+6ufe,Ion Channels,12071.59,1.2
+3d3h,Glycosyltransferases,9780.54,2.31
+2xq3,Ion Channels,64700.36,3.5
+2yd7,Phosphatases,20080.34,1.98
+3uu4,Ion Channels,63343.57,3.05
+1ymd,Phosphatases,9265.47,1.7
+6gwm,Cysteine Proteases,8993.49,
+3h4t,Glycosyltransferases,16311.76,1.15
+6d65,Phosphatases,54583.81,2.35
+2cs5,Phosphatases,9255.14,
+2qlf,Cysteine Proteases,18214.81,2.8
+3tg0,Phosphatases,55524.69,1.2
+6yyg,Tyr Kinases,34717.22,1.95
+6i82,Tyr Kinases,25633.32,2.05
+2k1l,Tyr Kinases,6708.19,
+5ew1,Serine Proteases,17180.73,2.95
+1qj6,Serine Proteases,14134.15,2.2
+4di2,Aspartic Proteases,47768.37,2.0
+2b49,Phosphatases,11917.35,1.54
+5hvh,Serine Proteases,25202.54,3.0
+3srv,Tyr Kinases,25656.47,1.95
+1lz0,Glycosyltransferases,13995.47,1.8
+2mk2,Phosphatases,7587.14,
+3edx,Serine Proteases,38070.13,2.4
+4dfn,Tyr Kinases,14033.21,2.48
+3nmn,Phosphatases,38509.66,2.15
+2iuc,Phosphatases,22232.06,1.95
+1mq5,Serine Proteases,12953.07,2.1
+7mok,Phosphatases,15096.64,1.85
+8s8a,Phosphatases,13508.59,1.5
+6nzm,Tyr Kinases,26177.31,1.72
+5heu,Ion Channels,132931.05,3.2
+1q6t,Phosphatases,25716.34,2.3
+1gl5,Tyr Kinases,5128.37,
+8jzl,Phosphatases,129979.79,2.62
+1m17,Tyr Kinases,17699.57,2.6
+4l6r,GPCRs,23231.26,3.3
+1b8j,Phosphatases,27906.07,1.9
+3v3k,Cysteine Proteases,135736.22,3.49
+1iql,Serine Proteases,13558.02,2.7
+3vdn,Glycosyltransferases,20842.49,2.55
+5mjz,Phosphatases,31725.59,1.87
+2y96,Phosphatases,17336.52,2.38
+1p0s,Serine Proteases,24950.72,2.8
+6fvq,Ion Channels,63238.05,3.3
+3i5d,Ion Channels,43891.96,3.46
+6h8s,Phosphatases,13648.87,1.77
+7n4q,Tyr Kinases,12815.44,1.5
+2uzq,Phosphatases,49637.83,2.38
+4rii,Glycosyltransferases,27643.58,2.0
+1n9k,Phosphatases,21419.30,2.2
+3v0d,Phosphatases,30007.71,1.1
+2ql9,Cysteine Proteases,18366.52,2.14
+4l7g,Aspartic Proteases,16247.05,1.38
+2xzv,Phosphatases,10519.38,1.6
+1a61,Serine Proteases,12739.80,2.2
+4ehf,Cysteine Proteases,12220.01,1.66
+3otk,Glycosyltransferases,63491.94,2.3
+8spb,Cysteine Proteases,40185.69,3.2
+5rwm,Phosphatases,20399.37,1.36
+5ry8,Phosphatases,20127.70,1.43
+3lm5,Ser/Thr Kinases,14270.82,2.29
+1zeb,Phosphatases,19680.19,1.9
+3rmo,Serine Proteases,13126.36,1.4
+7uso,Cysteine Proteases,18184.45,2.3
+5rx8,Phosphatases,20358.43,1.34
+5ryc,Phosphatases,20505.59,1.56
+1u2q,Phosphatases,7622.58,2.5
+2ght,Phosphatases,17272.87,1.8
+8t56,Ion Channels,73509.22,2.8
+4bpc,Phosphatases,25478.13,2.1
+6aij,Glycosyltransferases,23525.73,2.1
+1cww,Cysteine Proteases,6224.85,
+2zv7,Tyr Kinases,12419.11,2.5
+2ptk,Tyr Kinases,21563.73,2.35
+2f6y,Phosphatases,13422.59,2.15
+4bc6,Ser/Thr Kinases,14957.27,2.2
+6y8b,Cysteine Proteases,11983.43,1.54
+1mq6,Serine Proteases,13069.05,2.1
+1abq,Tyr Kinases,3505.77,2.8
+1utt,Metalloproteases,8249.92,2.2
+2w5v,Phosphatases,23818.46,1.78
+5hvf,Serine Proteases,19829.41,2.85
+6wrr,Phosphatases,15294.18,2.5
+6gkf,Cysteine Proteases,82890.47,2.6
+7xjo,Metalloproteases,15604.43,2.0
+4hfe,Ion Channels,63254.76,2.8
+6tse,Tyr Kinases,18739.42,1.41
+6lf3,Tyr Kinases,86223.06,3.2
+8ed7,Ion Channels,183412.93,3.7
+2cjx,Cysteine Proteases,11598.58,1.7
+6dev,Cysteine Proteases,40363.73,2.35
+2ixn,Phosphatases,26735.96,2.8
+8hjk,Glycosyltransferases,18880.82,1.83
+5mmv,Cysteine Proteases,12776.80,2.15
+2zhv,Aspartic Proteases,15831.48,1.85
+2bif,Phosphatases,39183.10,2.4
+4ue7,Serine Proteases,12963.00,1.13
+5fdx,Tyr Kinases,26985.60,2.65
+3pxh,Phosphatases,10322.91,2.0
+2zfq,Serine Proteases,12954.40,1.8
+7sit,Ion Channels,69403.04,3.32
+6pxj,Serine Proteases,23736.34,1.7
+5jnv,Phosphatases,7930.81,1.6
+2i4e,Phosphatases,25197.16,1.75
+1rde,Serine Proteases,3058.24,
+5t1w,Aspartic Proteases,15563.48,2.96
+5pzx,Phosphatases,90157.32,2.75
+3qlf,Tyr Kinases,25053.95,2.75
+3pd1,Cysteine Proteases,11829.18,1.62
+5rx5,Phosphatases,20408.74,1.28
+3qcf,Phosphatases,25391.06,2.5
+3uq5,Ion Channels,129509.54,4.2
+1s2o,Phosphatases,11123.82,1.4
+1zed,Phosphatases,19699.76,1.57
+1wch,Phosphatases,14811.71,1.85
+2p1r,Lipid Kinases,50048.13,2.5
+6t57,Serine Proteases,12687.59,1.57
+6zuu,Serine Proteases,13398.71,1.94
+4ex6,Phosphatases,9702.41,1.25
+4ilc,Ion Channels,62242.11,2.99
+4pry,Cysteine Proteases,12828.10,1.7
+5jwy,Phosphatases,14512.70,3.2
+3uwj,Serine Proteases,13133.30,1.5
+3rsc,Glycosyltransferases,30972.74,2.19
+1nm6,Serine Proteases,13069.58,1.8
+2x2k,Tyr Kinases,13942.17,2.6
+2ghq,Phosphatases,18354.30,2.05
+4ila,Ion Channels,62293.60,3.5
+5svr,Ion Channels,18793.80,3.13
+8ek7,Phosphatases,54149.71,1.65
+3bei,Serine Proteases,12991.14,1.55
+1tfq,Cysteine Proteases,9779.38,
+4lz4,Serine Proteases,28993.24,2.56
+6bl8,Tyr Kinases,26153.37,2.5
+2yjn,Glycosyltransferases,30585.34,3.09
+2hsz,Phosphatases,18772.48,1.9
+8ybx,Cysteine Proteases,75748.83,3.68
+4mnr,Glycosyltransferases,17375.13,1.65
+5to3,Serine Proteases,19975.12,2.34
+2cm7,Phosphatases,13553.85,2.1
+4zzc,Ion Channels,63525.31,3.1
+3eam,Ion Channels,63362.31,2.9
+7jvn,Phosphatases,42706.75,1.92
+4an4,Glycosyltransferases,57229.10,2.7
+2cnh,Phosphatases,13593.21,1.8
+3ia7,Glycosyltransferases,33158.47,1.91
+6vxs,Phosphatases,15621.56,2.03
+6drk,Ion Channels,262042.66,3.8
+2ec8,Tyr Kinases,26584.81,3.0
+7msk,Glycosyltransferases,39724.59,2.06
+3r3g,Serine Proteases,13153.43,1.75
+1rhk,Cysteine Proteases,11022.65,2.5
+2cdr,Cysteine Proteases,13121.61,1.7
+5mwa,Phosphatases,10968.20,1.55
+2yn0,Phosphatases,11971.56,1.5
+7zkm,Serine Proteases,16343.42,2.0
+1qhw,Phosphatases,12662.72,2.2
+3np5,Phosphatases,16468.08,1.8
+6mc1,Phosphatases,40492.87,2.7
+6bdv,Cysteine Proteases,11146.27,1.94
+5htz,Aspartic Proteases,33024.71,1.95
+3fxk,Phosphatases,17031.43,2.1
+7ocn,Phosphatases,57477.45,2.6
+9e9m,Phosphatases,7543.10,1.55
+2zhs,Aspartic Proteases,15624.62,2.7
+1l7o,Phosphatases,19382.85,2.2
+1q6j,Phosphatases,13547.88,2.2
+1lzi,Glycosyltransferases,14148.24,1.35
+4qug,Cysteine Proteases,17917.37,1.92
+2hv7,Phosphatases,101736.51,2.5
+7uy3,Tyr Kinases,19618.90,2.99
+5rww,Phosphatases,20365.39,1.16
+6ftb,Glycosyltransferases,11225.53,2.1
+4rro,Aspartic Proteases,17929.16,1.8
+7k7o,Tyr Kinases,22785.04,2.82
+2p3t,Serine Proteases,13497.63,1.92
+4hma,Metalloproteases,16270.90,1.94
+4ra7,Glycosyltransferases,33837.17,1.94
+2vew,Phosphatases,13648.54,2.0
+1ed9,Phosphatases,27830.45,1.75
+1f3m,Ser/Thr Kinases,33943.57,2.3
+1tbz,Serine Proteases,12693.73,2.3
+2f6z,Phosphatases,13414.89,1.7
+2c1e,Cysteine Proteases,12986.46,1.77
+2vev,Phosphatases,13854.05,1.8
+1dwe,Serine Proteases,13722.06,3.0
+5ugx,Tyr Kinases,25978.80,2.35
+7qp8,Phosphatases,34418.46,1.7
+2fci,Tyr Kinases,6798.74,
+3ij4,Ion Channels,21554.78,3.0
+2fek,Phosphatases,7484.37,
+7ac9,Serine Proteases,12767.30,1.39
+2oc3,Phosphatases,12283.30,1.5
+6yqv,Serine Proteases,12706.91,1.45
+6g46,Phosphatases,59291.60,2.4
+6mj2,Ion Channels,261094.81,6.36
+2ei8,Serine Proteases,12923.67,2.1
+7yzz,Phosphatases,34596.80,1.29
+6zgk,Ion Channels,66481.19,3.6
+3zvm,Phosphatases,36372.83,2.0
+2zhe,Serine Proteases,12845.60,2.1
+3h4i,Glycosyltransferases,16600.44,1.3
+5q0b,Phosphatases,44892.61,2.3
+2uzy,Tyr Kinases,79606.85,4.0
+5kab,Phosphatases,13104.29,1.97
+5zr2,Phosphatases,33878.18,2.95
+1t4j,Phosphatases,13590.31,2.7
+1hjk,Phosphatases,28414.04,2.3
+4rih,Glycosyltransferases,27622.95,2.22
+8vc6,Ion Channels,55204.90,3.17
+2jnp,Metalloproteases,9079.57,
+3es2,Phosphatases,22289.76,2.95
+3cgt,Glycosyltransferases,23086.02,2.4
+3g6s,Phosphatases,11177.33,2.5
+3kl6,Serine Proteases,13633.19,1.45
+7msn,Glycosyltransferases,40893.03,3.0
+9dwq,Ion Channels,81348.30,2.76
+1b55,Tyr Kinases,17848.42,2.4
+8hjh,Glycosyltransferases,38028.40,1.76
+5ian,Cysteine Proteases,12137.13,2.7
+5lid,Ion Channels,133918.30,4.5
+1x5z,Phosphatases,8131.08,
+3ef1,Phosphatases,19008.62,2.15
+6pgt,Phosphatases,13707.88,2.2
+6bgq,Cysteine Proteases,19319.60,1.97
+3n28,Phosphatases,15079.62,2.3
+2y09,Phosphatases,10580.90,1.7
+7ocs,Phosphatases,104957.47,2.3
+5rxj,Phosphatases,20400.50,1.52
+4mix,Glycosyltransferases,27212.14,1.8
+1nrr,Serine Proteases,12263.08,2.4
+6i28,Phosphatases,8307.59,1.65
+2c9a,Phosphatases,13191.33,2.7
+4jqg,Metalloproteases,15841.27,1.85
+2a2k,Phosphatases,9101.13,1.52
+2p95,Serine Proteases,13744.58,2.2
+1rwk,Cysteine Proteases,13756.32,2.3
+3c4v,Glycosyltransferases,32364.71,2.6
+2p3u,Serine Proteases,13433.77,1.62
+1awh,Serine Proteases,26062.54,3.0
+5rxz,Phosphatases,20421.10,1.56
+7r5y,Phosphatases,99007.38,1.97
+7nee,Serine Proteases,15598.31,2.55
+1nuk,Tyr Kinases,8658.01,2.9
+2dle,Phosphatases,6825.35,
+1ew2,Phosphatases,19854.94,1.82
+2bge,Phosphatases,12986.62,1.8
+2vh0,Serine Proteases,13762.26,1.7
+5heh,Ion Channels,65831.64,3.3
+1ptv,Phosphatases,13075.10,2.3
+3hkj,Serine Proteases,26613.50,2.6
+6jsg,Aspartic Proteases,16372.79,2.3
+4qu5,Cysteine Proteases,11906.07,1.91
+1ew9,Phosphatases,27694.39,2.0
+1qz0,Phosphatases,24911.86,1.5
+7dlh,Phosphatases,13358.77,1.79
+2d1o,Metalloproteases,16524.45,2.02
+1g32,Serine Proteases,12650.78,1.9
+2n8r,Metalloproteases,13012.08,
+2ie3,Phosphatases,35751.95,2.8
+2pnq,Phosphatases,36983.99,1.81
+7kir,Phosphatases,15208.65,2.6

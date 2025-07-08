@@ -1,0 +1,3 @@
+family,PDB_Entries,Mean_SASA,Geometric_CV,Mean_Resolution,Size_Range,clinical_success_rate
+Metalloproteases,2,14365.79,7.788652345245843e-05,2.2,13257-15474,0.0
+Serine Proteases,3,12280.09,0.0001066993221236,1.74,9146-14919,0.0

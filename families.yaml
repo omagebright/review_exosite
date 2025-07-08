@@ -1,0 +1,25 @@
+
+Serine Proteases:
+  - "thrombin"
+  - "factor Xa"
+Metalloproteases:
+  - "MMP"
+  - "ADAM"
+Cysteine Proteases:
+  - "caspase"
+Aspartic Proteases:
+  - "BACE1"
+Ser/Thr Kinases:
+  - "serine/threonine kinase"
+Tyr Kinases:
+  - "tyrosine kinase"
+Lipid Kinases:
+  - "lipid kinase"
+Phosphatases:
+  - "phosphatase"
+Glycosyltransferases:
+  - "glycosyltransferase"
+Ion Channels:
+  - "ion channel"
+GPCRs:
+  - "g protein-coupled receptor"
